@@ -39,15 +39,15 @@ This project analyses real-world property listings to uncover meaningful market 
 
 5. **Bivariate Analysis** – Investigated relationships between property features, including area vs. price and BHK vs. price.
 
-6. **Locality-wise Analysis** – Compared average property prices across different localities to identify pricing variations.
+6. **Multivariate Analysis** – Examined relationships among multiple numerical features using correlation analysis and a heatmap.
 
-7. **Correlation Analysis** – Examined relationships among numerical features using a correlation matrix and heatmap.
+7. **Statistical Hypothesis Testing**
 
-8. **Statistical Hypothesis Testing**
-   - **Welch's t-test:** Compared mean price per square foot between 2-BHK and 3-BHK properties.
-   - **One-Way ANOVA:** Examined differences in average property prices across the top 10 localities.
+Welch's t-test: Compared mean price per square foot between 2-BHK and 3-BHK properties.
 
-9. **Insights & Conclusion** – Summarised key findings and statistical results to understand Hyderabad's residential property market.
+One-Way ANOVA: Examined differences in average property prices across the top 10 localities
+
+8. **Insights & Conclusion** – Summarised key findings and statistical results to understand Hyderabad's residential property market.
 
 ##  Key Findings
 
@@ -67,5 +67,4 @@ This project analyses real-world property listings to uncover meaningful market 
 - **Environment:** Jupyter Notebook / Anaconda
 
 
-⭐ If you find this project interesting, feel free to explore the repository!
 
