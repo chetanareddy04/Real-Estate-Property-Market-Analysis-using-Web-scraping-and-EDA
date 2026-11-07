@@ -43,9 +43,9 @@ This project analyses real-world property listings to uncover meaningful market 
 
 7. **Statistical Hypothesis Testing**
 
-Welch's t-test: Compared mean price per square foot between 2-BHK and 3-BHK properties.
+   Welch's t-test: Compared mean price per square foot between 2-BHK and 3-BHK properties.
 
-One-Way ANOVA: Examined differences in average property prices across the top 10 localities
+   One-Way ANOVA: Examined differences in average property prices across the top 10 localities
 
 8. **Insights & Conclusion** – Summarised key findings and statistical results to understand Hyderabad's residential property market.
 
