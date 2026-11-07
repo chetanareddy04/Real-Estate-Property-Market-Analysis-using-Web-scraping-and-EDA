@@ -1,0 +1,1264 @@
+property_name,property_type,location,price,price_per_sqft,area_type,area_sqft,bhk,furnishing,bathrooms
+Teja Fortune Heights,Apartment,Patancheruvu,9100000.0,5199.0,SUPER AREA,1750.0,3,Unfurnished,3
+Aditya Athena,Apartment,Shaikpet,22000000.0,12429.0,SUPER AREA,1770.0,3,Unfurnished,3
+Prestige Golden Grove,Apartment,"Tellapur, Outer Ring Road",30000000.0,9989.0,SUPER AREA,3010.0,4,Unfurnished,4
+Silpa Vaibhavi Vihanga,Apartment,"Tellapur, Outer Ring Road",12500000.0,6480.0,SUPER AREA,1930.0,3,Unfurnished,3
+Sonthalia Fortune Sky Villas,Apartment,"Kokapet, Outer Ring Road",92600000.0,12632.0,SUPER AREA,7333.0,4,Unfurnished,4
+MSR Mamidi Prive 32,Apartment,Rajendranagar Mandal,19100000.0,7499.0,SUPER AREA,2560.0,3,Unfurnished,3
+Prestige Golden Grove,Apartment,"Tellapur, Outer Ring Road",28900000.0,9989.0,CARPET AREA,1826.0,4,Unfurnished,4
+De Blueoak The Trilight,Apartment,"Kokapet, Outer Ring Road",44700000.0,11500.0,SUPER AREA,3888.0,4,Unfurnished,4
+The Prestige City,Apartment,Rajendranagar Mandal,11700000.0,10000.0,SUPER AREA,1179.0,2,Unfurnished,2
+LINQ by Raghava,Apartment,"Kokapet, Outer Ring Road",20500000.0,8600.0,SUPER AREA,2388.0,3,Unfurnished,3
+SDG PRINIA,Apartment,"Kismatpur, Outer Ring Road",17400000.0,6999.0,SUPER AREA,2499.0,3,Unfurnished,3
+Essen Marvella,Apartment,Jeedimetla,8880000.0,5900.0,SUPER AREA,1505.0,3,Unfurnished,3
+Yula Globus Neo,Apartment,"Kokapet, Outer Ring Road",42500000.0,9331.0,SUPER AREA,4565.0,4,Unfurnished,4
+Lansum Elena,Apartment,"Kokapet, Outer Ring Road",38100000.0,11000.0,SUPER AREA,3465.0,4,Unfurnished,4
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda,27800000.0,11999.0,SUPER AREA,2320.0,3,Unfurnished,3
+Aparna Newlands,Apartment,"Tellapur, Outer Ring Road",13300000.0,9052.0,SUPER AREA,1475.0,3,Unfurnished,3
+Anvita Ivana,Apartment,"Kollur, Outer Ring Road",33900000.0,7653.0,SUPER AREA,4440.0,4,Unfurnished,4
+Vian Mrida,Apartment,"Kollur, Outer Ring Road",9810000.0,7034.0,SUPER AREA,1395.0,2,Unfurnished,2
+EIPL THE TAMARIND,Apartment,Neknampur,12400000.0,8813.0,SUPER AREA,1410.0,2,Unfurnished,2
+Urbanrise The World Of Joy,Apartment,Ameenpur,10200000.0,7699.0,SUPER AREA,1333.0,2,Unfurnished,2
+Raghuram The Vue Residences,Apartment,Puppalguda,20200000.0,10506.0,SUPER AREA,1925.0,3,Unfurnished,3
+DSR Ciel,Apartment,Gopanpally,24300000.0,8699.0,SUPER AREA,2800.0,3,Unfurnished,3
+Sri Jagathswapna Sparkle Haven,Apartment,"Aushapur, NH 2 2",28300000.0,6999.0,SUPER AREA,4053.0,4,Unfurnished,4
+Hallmark Altus,Apartment,Madeenaguda,22800000.0,9000.0,SUPER AREA,2540.0,3,Unfurnished,3
+Supadha Gamya,Apartment,"Tellapur, Outer Ring Road",19100000.0,7899.0,SUPER AREA,2430.0,3,Unfurnished,3
+Prestige Vaishnaoi Rainbow Waters,Apartment,Rai Durg Hyderabad,116300000.0,15000.0,SUPER AREA,7757.0,4,Unfurnished,6
+The Marquise,Apartment,"Kokapet, Outer Ring Road Hyderabad",110300000.0,11453.0,SUPER AREA,9635.0,5,Unfurnished,5
+Pacifica Hillcrest,Apartment,Gachibowli Hyderabad,9170000.0,9753.0,SUPER AREA,940.0,2,Unfurnished,2
+Riddhis Taranto Towers,Apartment,"Patighanpur, Outer Ring Road Hyderabad",10900000.0,5700.0,SUPER AREA,1916.0,3,Unfurnished,3
+Vian Vayu,Apartment,"Kollur, Outer Ring Road Hyderabad",13600000.000000002,6999.0,SUPER AREA,1950.0,3,Unfurnished,3
+Maa Srinivasam,Apartment,"Isnapur, Outer Ring Road Hyderabad",7580000.0,5000.0,SUPER AREA,1515.0,3,Unfurnished,2
+Urbanrise On Cloud 33,Apartment,Bachupally Hyderabad,15500000.0,8108.0,SUPER AREA,1914.0,3,Unfurnished,3
+Skymarq By DSR,Apartment,Puppalguda Hyderabad,45900000.0,11500.0,SUPER AREA,3999.0,4,Unfurnished,5
+Brigade Manor,Apartment,Balanagar Hyderabad,30700000.0,11353.0,SUPER AREA,2706.0,4,Unfurnished,4
+Ar Homes Altura,Apartment,"Kollur, Outer Ring Road Hyderabad",14400000.0,6399.0,SUPER AREA,2255.0,3,Unfurnished,3
+Candeur Skyline,Apartment,Puppalguda Hyderabad,83500000.0,12658.0,SUPER AREA,6600.0,4,Unfurnished,5
+Prestige Golden Grove,Apartment,"Tellapur, Outer Ring Road Hyderabad",30000000.0,9989.0,SUPER AREA,3010.0,4,Unfurnished,4
+Nikhila Royal Pavilion,Apartment,Mokila Hyderabad,15700000.0,6299.0,SUPER AREA,2495.0,4,Unfurnished,4
+Casagrand Mandarin,Apartment,"Miyapur, NH 9 Hyderabad",22800000.0,7217.0,SUPER AREA,3159.0,4,Unfurnished,4
+Levonor Egeira,Apartment,Edulnagulapally Hyderabad,18300000.0,7950.0,SUPER AREA,2305.0,3,Unfurnished,3
+Western Marina,Apartment,Nanakaramguda Hyderabad,63900000.0,10505.0,SUPER AREA,6085.0,4,Unfurnished,4
+Godrej Regal Pavilion,Apartment,Rajendranagar Mandal Hyderabad,29800000.0,8372.0,SUPER AREA,3571.0,4,Unfurnished,4
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",17400000.0,11070.0,SUPER AREA,1573.0,3,Unfurnished,3
+Raghava Nova,Apartment,"Financial District, Nanakram Guda Hyderabad",26000000.0,9999.0,SUPER AREA,2605.0,3,Unfurnished,3
+Shasta Heights,Apartment,Yapral Hyderabad,7630000.0,5250.0,SUPER AREA,1453.0,3,Unfurnished,3
+Aurobindo Kohinoor,Apartment,Izzathnagar Hyderabad,39500000.0,13419.0,SUPER AREA,2948.0,4,Unfurnished,4
+Sattva Lake Ridge,Apartment,"Kokapet, Outer Ring Road Hyderabad",61800000.0,11744.0,CARPET AREA,3204.0,5,Unfurnished,5
+Brigade Gateway,Apartment,"Kokapet, Outer Ring Road Hyderabad",49200000.0,15999.0,SUPER AREA,3078.0,3,Unfurnished,3
+MY HOME APAS,Apartment,"Kokapet, Outer Ring Road Hyderabad",42400000.0,11000.0,SUPER AREA,3860.0,3,Unfurnished,3
+Shangrilas Abbham,Apartment,"Kismatpur, Outer Ring Road Hyderabad",49700000.0,7100.0,SUPER AREA,7000.0,4,Unfurnished,4
+Hallmark Altus,Apartment,Madeenaguda Hyderabad,33600000.0,10275.0,SUPER AREA,3270.0,4,Unfurnished,4
+Zuari Gangothri Tribhuja,Apartment,"Kollur, Outer Ring Road Hyderabad",13500000.0,7999.0,SUPER AREA,1693.0,3,Unfurnished,3
+Sattva Lake Ridge,Apartment,"Kokapet, Outer Ring Road Hyderabad",36100000.0,13150.0,SUPER AREA,2751.0,3,Unknown,3
+A2A Homeland,Apartment,Balanagar Hyderabad,18000000.0,7965.0,CARPET AREA,1739.0,3,Unfurnished,3
+Elegantea Skyven,Apartment,"Kokapet, Outer Ring Road Hyderabad",68100000.0,11563.0,SUPER AREA,5896.0,4,Unfurnished,4
+Aparna Newlands,Apartment,"Tellapur, Outer Ring Road Hyderabad",14300000.0,9699.0,SUPER AREA,1475.0,3,Unfurnished,2
+Cybercity Marina Skies,Apartment,Hitech City Hyderabad,35200000.0,10799.0,SUPER AREA,3260.0,4,Unfurnished,4
+Jain Pramukh Samriddhi Towers,Apartment,Satamrai Hyderabad,55000000.0,9865.0,SUPER AREA,5575.0,4,Unfurnished,4
+THE ORIGIN THE RISE BY 360LIFE,Apartment,Hitech City Hyderabad,67900000.0,14000.0,SUPER AREA,4850.0,5,Unfurnished,5
+APR Praveens Higheria,Apartment,Patancheruvu Hyderabad,9740000.0,5900.0,SUPER AREA,1650.0,3,Unfurnished,3
+Visions Arsha,Apartment,"Tellapur, Outer Ring Road Hyderabad",20000000.0,9456.0,SUPER AREA,2115.0,3,Unfurnished,3
+Miliarium by Eeshanya Infraa,Apartment,"Kollur, Outer Ring Road Hyderabad",12000000.0,6199.0,SUPER AREA,1936.0,3,Unfurnished,3
+Cloudswood Radhey Skye,Apartment,"Kollur, Outer Ring Road Hyderabad",10800000.0,8199.0,SUPER AREA,1325.0,2,Unfurnished,2
+Praneeth PBR Pranav Ixora,Apartment,"Hyder Nagar, NH 9 Hyderabad",16100000.000000002,9155.0,SUPER AREA,1766.0,3,Unfurnished,2
+Modi Elegance,Apartment,Gajularamaram Hyderabad,7659999.999999999,5860.0,SUPER AREA,1308.0,3,Unfurnished,2
+Sunyuga Vantara,Apartment,Dulapally Hyderabad,14000000.0,6200.0,SUPER AREA,2269.0,3,Unfurnished,3
+Kolla Luxor Exclusive,Apartment,Chanda Nagar Hyderabad,13000000.0,7199.0,SUPER AREA,1815.0,3,Unfurnished,3
+Vertex 33 West,Apartment,Nalagandla Hyderabad,14900000.0,8355.0,SUPER AREA,1785.0,3,Unfurnished,3
+Primarks Eco Nest,Apartment,Kompally Hyderabad,10900000.0,5499.0,SUPER AREA,2000.0,3,Unfurnished,3
+EAPL Sri Tirumala Legacy,Apartment,Puppalguda Hyderabad,23100000.0,8499.0,SUPER AREA,2727.0,3,Unfurnished,3
+LINQ by Raghava,Apartment,"Kokapet, Outer Ring Road Hyderabad",20500000.0,8600.0,SUPER AREA,2388.0,3,Unfurnished,3
+Team4 Arka,Apartment,Nanakaramguda Hyderabad,28200000.0,11025.0,SUPER AREA,2565.0,3,Unfurnished,3
+The Prestige City,Apartment,Rajendranagar Mandal Hyderabad,29500000.0,8598.0,SUPER AREA,3431.0,4,Unfurnished,4
+Vazhraa Vihaari,Apartment,Manikonda Jagir Hyderabad,12600000.0,9200.0,SUPER AREA,1380.0,2,Unfurnished,2
+Saanvi Altius,Apartment,"Narsingi, Outer Ring Road Hyderabad",22900000.0,8300.0,SUPER AREA,2770.0,3,Unfurnished,3
+Vajra West City,Apartment,"Tellapur, Outer Ring Road Hyderabad",38700000.0,8799.0,SUPER AREA,4400.0,4,Unfurnished,5
+Jubilee Hills,Apartment,Adibatla Hyderabad,66000000.0,16500.0,CARPET AREA,4000.0,4,Unknown,4
+3983 sqft,Apartment,Hitech City Hyderabad,50300000.0,12630.0,SUPER AREA,3983.0,3,Unknown,3
+Giridharis Vue,Apartment,"Kismatpur, Outer Ring Road Hyderabad",15800000.0,7210.0,SUPER AREA,2197.0,3,Unfurnished,3
+Vision Amnaya,Apartment,Khajaguda Hyderabad,22800000.0,10900.0,SUPER AREA,2095.0,3,Unfurnished,3
+ACASA,Apartment,"Kokapet, Outer Ring Road Hyderabad",42800000.0,11424.0,SUPER AREA,3750.0,4,Unfurnished,4
+Aparna Sarovar Towers,Apartment,Nalagandla Hyderabad,36900000.0,11029.0,SUPER AREA,3348.0,4,Unfurnished,5
+GHR Callisto,Apartment,"Kollur, Outer Ring Road Hyderabad",12700000.0,7199.0,SUPER AREA,1775.0,3,Unfurnished,3
+Muppas Melody,Apartment,"Tellapur, Outer Ring Road Hyderabad",14300000.0,8294.0,SUPER AREA,1725.0,3,Unfurnished,3
+Ambience Beaumonde,Apartment,"Kokapet, Outer Ring Road Hyderabad",22500000.0,9575.0,SUPER AREA,2350.0,3,Unfurnished,3
+Pranava East Crest,Apartment,Hastinapuram Hyderabad,8580000.0,7000.0,SUPER AREA,1225.0,2,Unfurnished,2
+Silpa Vaibhavi Vihanga,Apartment,"Tellapur, Outer Ring Road Hyderabad",12400000.0,6249.0,SUPER AREA,2000.0,3,Unfurnished,3
+Risinia The Twinz,Apartment,Bachupally Hyderabad,9140000.0,6390.0,SUPER AREA,1430.0,2,Unfurnished,2
+Lansum El Palacio,Apartment,Puppalguda Hyderabad,15400000.0,9010.0,SUPER AREA,1715.0,3,Unfurnished,2
+Fortune Water Front,Apartment,"Kukatpally, NH 9 Hyderabad",26100000.0,9065.0,SUPER AREA,2880.0,3,Unfurnished,3
+Avani Empire Greens,Apartment,"Tellapur, Outer Ring Road Hyderabad",10600000.0,7361.0,SUPER AREA,1440.0,2,Unfurnished,2
+Namishree BPS Twin Towers,Apartment,Saidabad Hyderabad,11700000.0,6900.0,SUPER AREA,1705.0,3,Unfurnished,3
+Vazhraa Prathik,Apartment,Nizampet Hyderabad,15200000.0,7800.0,SUPER AREA,1950.0,3,Unfurnished,3
+EIPL THE TAMARIND,Apartment,Neknampur Hyderabad,19300000.0,8745.0,SUPER AREA,2215.0,3,Unfurnished,3
+Casagrand Evon,Apartment,Kompally Hyderabad,23700000.0,8316.0,SUPER AREA,2850.0,4,Unfurnished,4
+Vayun Meadows Block C,Apartment,Kapra Hyderabad,10600000.0,4977.0,SUPER AREA,2130.0,3,Unfurnished,3
+Shreemukh Silver Crest,Apartment,Begumpet Hyderabad,17200000.0,8999.0,SUPER AREA,1920.0,3,Unfurnished,3
+Samalas Sunshine Woods,Apartment,Ramachandrapuram Hyderabad,13799999.999999998,6199.0,SUPER AREA,2235.0,3,Unfurnished,3
+Risinia The Twinz,Apartment,Bachupally Hyderabad,8810000.0,6409.0,SUPER AREA,1375.0,2,Unfurnished,2
+Tridasa Rise,Apartment,Nalagandla Hyderabad,25000000.0,9088.0,SUPER AREA,2751.0,4,Unfurnished,4
+Sujay Global Elara,Apartment,Nalagandla Hyderabad,16100000.000000002,7699.0,SUPER AREA,2093.0,3,Unfurnished,3
+THE CASCADES NEOPOLIS,Apartment,"Kokapet, Outer Ring Road Hyderabad",53000000.0,10999.0,SUPER AREA,4825.0,4,Unfurnished,4
+3000 sqft,Apartment,Jubilee Hills Hyderabad,51700000.0,15001.0,CARPET AREA,3000.0,3,Unfurnished,3
+Candeur Lakescape,Apartment,Kondapur Hyderabad,19600000.0,8500.0,CARPET AREA,2306.0,4,Unknown,4
+Jains Radhakrishna Bliss,Apartment,"LB Nagar, NH 9 Hyderabad",17100000.0,8376.0,SUPER AREA,2050.0,3,Unfurnished,3
+Cybercity Westbrook,Apartment,"Kokapet, Outer Ring Road Hyderabad",21600000.0,12486.0,SUPER AREA,1730.0,3,Unknown,3
+Prestige Clairemont,Apartment,"Kokapet, Outer Ring Road Hyderabad",23500000.0,11732.0,SUPER AREA,2003.0,3,Unfurnished,3
+Skymarq By DSR,Apartment,Puppalguda Hyderabad,53500000.0,10702.0,SUPER AREA,4999.0,4,Unknown,4
+Manjeera Diamond Towers,Apartment,Gachibowli Hyderabad,9900000.0,8209.0,SUPER AREA,1206.0,2,Unknown,2
+Vajra West City,Apartment,"Tellapur, Outer Ring Road Hyderabad",17100000.0,8450.0,CARPET AREA,1421.0,3,Unknown,3
+Supadha Gamya,Apartment,"Tellapur, Outer Ring Road Hyderabad",20600000.0,8499.0,CARPET AREA,1770.0,3,Unknown,3
+DSR The Classe,Apartment,"Narsingi, Outer Ring Road Hyderabad",42500000.0,10790.0,CARPET AREA,3939.0,4,Unknown,4
+Sumadhura Acropolis,Apartment,Gachibowli Hyderabad,23500000.0,13459.0,CARPET AREA,1222.0,3,Unknown,3
+Candeur Lakescape,Apartment,Kondapur Hyderabad,23000000.0,9520.0,SUPER AREA,2416.0,4,Unknown,4
+1376 sqft,Apartment,Dollar Hills Hyderabad,9770000.0,6200.0,CARPET AREA,1376.0,3,Unknown,3
+710 sqft,Apartment,Satamrai Hyderabad,7509999.999999999,7949.0,CARPET AREA,710.0,2,Unknown,2
+Poulomi Palazzo,Apartment,"Kokapet, Outer Ring Road Hyderabad",146600000.0,18100.0,CARPET AREA,7000.0,4,Unknown,4
+1603 sqft,Apartment,Nanakaramguda Hyderabad,18300000.0,7999.0,CARPET AREA,1603.0,3,Unknown,3
+Kamala Amulya Green Lands,Apartment,"Tukkuguda, Srisailam Highway Hyderabad",42900000.0,13000.0,CARPET AREA,2800.0,5,Unknown,5
+2350 sqft,Apartment,Madeenaguda Hyderabad,30900000.0,9000.0,CARPET AREA,2350.0,3,Unknown,3
+Aparna Serenity,Apartment,Kompally Hyderabad,20200000.0,9100.0,CARPET AREA,1561.0,3,Unknown,3
+Jain Pramukh Samriddhi Towers,Apartment,Satamrai Hyderabad,45000000.0,8100.0,CARPET AREA,5156.0,4,Unknown,4
+Jain Pramukh Samriddhi Towers,Apartment,Satamrai Hyderabad,46100000.0,8900.0,CARPET AREA,4100.0,4,Unknown,4
+Jain Pramukh Samriddhi Towers,Apartment,Satamrai Hyderabad,33900000.0,8091.0,SUPER AREA,4190.0,3,Unknown,3
+Cybercity Marina Skies,Apartment,Hitech City Hyderabad,42699999.99999999,10500.0,CARPET AREA,3550.0,4,Unknown,4
+Jains Balaji Nilayam Casa Waterside,Apartment,Malkajgiri Hyderabad,18000000.0,8949.0,CARPET AREA,947.0,3,Unknown,3
+VSR Celestial Towers,Apartment,Gajularamaram Hyderabad,16600000.0,15000.0,CARPET AREA,810.0,2,Unknown,2
+1600 sqft,Apartment,Dabilpur Hyderabad,43300000.0,12221.0,CARPET AREA,1600.0,3,Unknown,3
+Yashoda Fiora,Apartment,Mansanpally Maheshwaram Hyderabad,47000000.0,10500.0,CARPET AREA,3997.0,4,Unknown,4
+Lakshmis Emperia,Apartment,"Miyapur, NH 9 Hyderabad",15700000.0,6565.0,CARPET AREA,1398.0,3,Unknown,3
+The Prestige City,Apartment,"Acharya Ng Ranga Agricultural University, Rajendra Nagar, NH 7 Hyderabad",43200000.0,17756.0,CARPET AREA,1977.0,3,Unknown,3
+NSL Nakshatra,Apartment,"Kukatpally, NH 9 Hyderabad",34900000.0,8598.0,CARPET AREA,2841.0,4,Unknown,4
+2290 sqft,Apartment,Puppalguda Hyderabad,22900000.0,10000.0,SUPER AREA,2290.0,3,Unknown,3
+Namishree Swar Tattvam,Apartment,Chilakalguda Hyderabad,20100000.0,8604.0,CARPET AREA,1100.0,4,Unknown,4
+Sumashaila Vaddepally Enclave Villas,Apartment,Addagutta Society Hyderabad,14600000.0,4740.0,SUPER AREA,3101.0,4,Unknown,4
+1000 sqft,Apartment,Jeedimetla Hyderabad,15900000.0,11293.0,CARPET AREA,1000.0,2,Unfurnished,2
+3255 sqft,Apartment,Addagutta Hyderabad,28900000.0,8878.648233486943,CARPET AREA,3255.0,4,Unknown,4
+1400 sqft,Apartment,"Gandi Maisamma, Outer Ring Road Hyderabad",19200000.0,10667.0,CARPET AREA,1400.0,3,Unknown,3
+4200 sqft,Apartment,Kompally Hyderabad,53300000.0,11600.0,CARPET AREA,4200.0,5,Unknown,5
+Lahari Twins,Apartment,"Miyapur, NH 9 Hyderabad",16299999.999999998,7800.0,CARPET AREA,1428.0,3,Unknown,3
+Lansum EL Dorado,Apartment,"Narsingi, Outer Ring Road Hyderabad",22900000.0,11774.0,CARPET AREA,1500.0,3,Unknown,3
+Rajapushpa Pristinia,Apartment,"Kokapet, Outer Ring Road Hyderabad",22300000.0,9500.0,SUPER AREA,2355.0,3,Unknown,3
+Om Sree Heights,Apartment,Yapral Hyderabad,17200000.0,6294.0,CARPET AREA,1900.0,3,Unknown,3
+AMARA by Deevyashakti,Apartment,"Acharya Ng Ranga Agricultural University, Rajendra Nagar, NH 7 Hyderabad",14600000.0,7400.0,SUPER AREA,1980.0,3,Unknown,3
+Candeur Lakescape,Apartment,Block C Sri Ramnagar Hyderabad,26500000.0,11527.0,SUPER AREA,2299.0,4,Unknown,4
+3297 sqft,Apartment,Bachupally Hyderabad,40199999.99999999,12192.902638762509,CARPET AREA,3297.0,4,Unknown,4
+Candeur 40,Apartment,"Miyapur, NH 9 Hyderabad",10500000.0,8974.0,CARPET AREA,786.0,2,Unknown,2
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road Hyderabad",26000000.0,11171.0,CARPET AREA,1682.0,3,Unknown,3
+Lumbini Elysee,Apartment,"Financial District, Nanakram Guda Hyderabad",29000000.0,10674.0,SUPER AREA,2717.0,3,Unknown,3
+900 sqft,Apartment,Kardanur Hyderabad,8130000.0,6500.0,CARPET AREA,900.0,2,Unknown,2
+Anmol Terrasa,Apartment,"Miyapur, NH 9 Hyderabad",16700000.0,7624.0,CARPET AREA,1720.0,3,Unknown,3
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",18500000.0,9046.0,SUPER AREA,2045.0,3,Unknown,3
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road Hyderabad",22000000.0,10891.0,SUPER AREA,2020.0,3,Unknown,3
+Lansum Encanto,Apartment,"Financial District, Nanakram Guda Hyderabad",37500000.0,9000.0,CARPET AREA,4170.0,4,Unknown,4
+Nikhila Royal Pavilion,Apartment,Mokila Hyderabad,22700000.0,6424.0,CARPET AREA,3540.0,4,Unknown,4
+Ramky One Odyssey,Apartment,"Kokapet, Outer Ring Road Hyderabad",23500000.0,10780.0,SUPER AREA,2180.0,3,Unknown,3
+Vasavi Atlantis,Apartment,"Narsingi, Outer Ring Road Hyderabad",18800000.0,8500.0,CARPET AREA,1554.0,3,Unknown,3
+Elegans Vanae,Apartment,"Kollur, Outer Ring Road Hyderabad",20600000.0,4700.0,SUPER AREA,4400.0,3,Unfurnished,3
+Candeur Lakescape,Apartment,Kondapur Hyderabad,15500000.0,9471.0,SUPER AREA,1644.0,3,Unfurnished,2
+Candeur Twins,Apartment,"Miyapur, NH 9 Hyderabad",16000000.0,7899.0,SUPER AREA,2032.0,3,Unfurnished,3
+EAPL Sri Tirumala Fortune,Apartment,"Tukkuguda, Srisailam Highway Hyderabad",17600000.0,5999.0,SUPER AREA,2943.0,4,Unfurnished,3
+Prestige Golden Grove,Apartment,"Tellapur, Outer Ring Road Hyderabad",11100000.000000002,9500.0,CARPET AREA,701.0,2,Unknown,2
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",23500000.0,10606.0,SUPER AREA,2220.0,3,Unfurnished,3
+Ramky One Symphony,Apartment,Patancheruvu Hyderabad,11299999.999999998,9004.0,SUPER AREA,1265.0,2,Unfurnished,3
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,35900000.0,11999.0,SUPER AREA,3000.0,4,Unfurnished,4
+Vamsiram Newmark,Apartment,"Kokapet, Outer Ring Road Hyderabad",62300000.00000001,9515.0,CARPET AREA,6500.0,5,Unknown,5
+Sukhii Ubuntu,Apartment,Puppalguda Hyderabad,17400000.0,11601.0,CARPET AREA,1500.0,3,Unknown,3
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road Hyderabad",32500000.0,12218.0,CARPET AREA,2660.0,3,Unknown,3
+The Eminent By Ramky,Apartment,Gaganpahad Hyderabad,22300000.0,7993.0,SUPER AREA,2790.0,3,Unknown,3
+Rajapushpa Pristinia,Apartment,"Kokapet, Outer Ring Road Hyderabad",15500000.0,8960.0,CARPET AREA,1730.0,3,Unknown,3
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",21500000.0,10859.0,CARPET AREA,1250.0,3,Unknown,3
+Myscape Songs of the Sun,Apartment,"Financial District, Nanakram Guda Hyderabad",31400000.0,10800.0,CARPET AREA,2900.0,3,Unknown,3
+Supadha Gamya,Apartment,"Tellapur, Outer Ring Road Hyderabad",20500000.0,8448.0,CARPET AREA,1655.0,3,Unknown,3
+Nirmal Sapphire,Apartment,Yapral Hyderabad,7250000.0,5000.0,SUPER AREA,1450.0,3,Unfurnished,3
+Western Springs,Apartment,Nanakaramguda Hyderabad,23000000.0,10526.0,CARPET AREA,1346.0,3,Unknown,3
+Hyndava MNK Heights,Apartment,Kompally Hyderabad,13000000.0,6860.0,CARPET AREA,1690.0,3,Unknown,3
+Prestige Golden Grove,Apartment,"Tellapur, Outer Ring Road Hyderabad",18500000.0,6800.0,SUPER AREA,2723.0,4,Unknown,4
+2000 sqft,Apartment,"Sun City, Bandlaguda, Chevella Road Hyderabad",14000000.0,7000.0,CARPET AREA,2000.0,3,Unknown,3
+1131 sqft,Apartment,Sainikpuri Hyderabad,9000000.0,6207.0,CARPET AREA,1131.0,3,Unknown,3
+Provident Kenworth,Apartment,Rajendranagar Mandal Hyderabad,5200000.0,9028.0,SUPER AREA,576.0,1,Unknown,2
+Aparna Sarovar Zicon,Apartment,HUDA Layout Nalagandla Hyderabad,17500000.0,14113.0,CARPET AREA,798.0,2,Unknown,2
+Fortune Greenspace Celestial,Apartment,"Kokapet, Outer Ring Road Hyderabad",27200000.000000004,11000.0,CARPET AREA,1860.0,3,Unknown,3
+1850 sqft,Apartment,Manneguda Hyderabad,12000000.0,6486.0,SUPER AREA,1850.0,3,Furnished,3
+1425 sqft,Apartment,"Pocharam, NH 2 2 Hyderabad",7400000.0,4241.0,CARPET AREA,1425.0,3,Unknown,3
+Ira Trump Tower Hyderabad,Apartment,"Kokapet, Outer Ring Road Hyderabad",100000000.0,17241.0,SUPER AREA,5800.0,5,Unknown,5
+1210 sqft,Apartment,Nalagandla Hyderabad,10000000.0,8264.462809917355,CARPET AREA,1210.0,2,Semi-Furnished,2
+My Home Vihanga,Apartment,Gachibowli Hyderabad,16000000.0,14350.0,SUPER AREA,1115.0,2,Unknown,2
+1803 sqft,Apartment,Shamshabad Hyderabad,17000000.0,9429.0,CARPET AREA,1803.0,3,Unknown,3
+2952 sqft,Apartment,Kothapet Hyderabad,24500000.0,8299.0,SUPER AREA,2952.0,4,Unknown,4
+Hill County Township,Apartment,Nizampet Hyderabad,15000000.0,9102.0,CARPET AREA,1400.0,3,Unknown,3
+Lanco Hills,Apartment,Manikonda Jagir Hyderabad,15500000.0,9873.0,SUPER AREA,1570.0,3,Unknown,3
+Urbanrise On Cloud 33,Apartment,Bachupally Hyderabad,10600000.0,7834.0,SUPER AREA,1353.0,3,Unknown,3
+Tranquillo MPR Urban City,Apartment,Patancheruvu Hyderabad,5620000.0,6174.0,SUPER AREA,910.0,2,Unknown,2
+2134 sqft,Apartment,Rangapuram Miyapur Hyderabad,26300000.0,8100.0,CARPET AREA,2134.0,4,Unknown,4
+925 sqft,Apartment,Masjid Banda Hyderabad,9500000.0,10270.27027027027,CARPET AREA,925.0,2,Unknown,2
+A2A Homeland,Apartment,Balanagar Hyderabad,17500000.0,8121.0,SUPER AREA,2155.0,3,Unknown,3
+1500 sqft,Apartment,Chengicherla Hyderabad,9700000.0,5404.0,CARPET AREA,1500.0,3,Unknown,3
+Nagarjuna Dreamland,Apartment,Kompally Hyderabad,7500000.0,5357.0,CARPET AREA,1115.0,3,Unknown,3
+Lanco Hills,Apartment,Manikonda Jagir Hyderabad,52300000.00000001,12001.0,CARPET AREA,3300.0,4,Unknown,4
+1350 sqft,Apartment,Hitech City Hyderabad,9800000.0,7127.0,CARPET AREA,1350.0,3,Unknown,3
+Aakriti Honey dew,Apartment,"Tellapur, Outer Ring Road Hyderabad",11500000.0,8977.0,CARPET AREA,1025.0,2,Unknown,2
+Shri Sunyuga Param Heights,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",10700000.0,6671.0,CARPET AREA,1421.0,3,Unknown,3
+Luxor Heights,Apartment,"Miyapur, NH 9 Hyderabad",12000000.0,6316.0,CARPET AREA,1830.0,3,Unknown,3
+GHR Titania,Apartment,Kondapur Hyderabad,16000000.0,12461.0,CARPET AREA,1121.0,2,Unknown,2
+1190 sqft,Apartment,Adarsh Nagar Uppal Hyderabad,7950000.0,6608.0,CARPET AREA,1190.0,2,Unfurnished,2
+SUMADHURA The Olympus,Apartment,Nanakaramguda Hyderabad,26100000.0,12985.0,CARPET AREA,1900.0,3,Unknown,3
+Vazhraa Vihhari,Apartment,Manikonda Jagir Hyderabad,14000000.0,10606.0,CARPET AREA,1250.0,2,Unknown,2
+2000 sqft,Apartment,"AGRL Colony, Hastinapuram Hyderabad",13000000.0,5417.0,CARPET AREA,2000.0,3,Unknown,3
+1500 sqft,Apartment,Kompally Hyderabad,9500000.0,6169.0,CARPET AREA,1500.0,3,Unknown,3
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",24000000.0,10811.0,CARPET AREA,1560.0,3,Unknown,3
+NSL Nakshatra,Apartment,Phase 1 KPHB Hyderabad,24300000.0,8221.0,CARPET AREA,2400.0,3,Unknown,3
+1400 sqft,Apartment,Aditya Nagar Gurram Guda Hyderabad,6100000.0,4136.0,CARPET AREA,1400.0,3,Unfurnished,3
+1805 sqft,Apartment,Kondapur Hyderabad,13700000.000000002,7600.0,SUPER AREA,1805.0,3,Unfurnished,3
+Girijas Marvel,Apartment,Friends Colony Chanda Nagar Hyderabad,12500000.0,7353.0,CARPET AREA,1640.0,3,Unknown,3
+1422 sqft,Apartment,"Moosapet, NH 9 Hyderabad",10900000.0,5525.0,CARPET AREA,1422.0,3,Unknown,3
+Cybercity Westbrook,Apartment,"Kokapet, Outer Ring Road Hyderabad",18600000.0,10751.0,SUPER AREA,1730.0,3,Unknown,3
+3750 sqft,Apartment,Puppalguda Hyderabad,28200000.0,7800.0,CARPET AREA,3750.0,4,Unknown,4
+Giridharis Vue,Apartment,"Kismatpur, Outer Ring Road Hyderabad",12000000.0,8397.0,CARPET AREA,985.0,3,Unknown,3
+Rajapushpa Aurelia,Apartment,"Jyothi Rao Pule Colony, Serilingampally Hyderabad",35000000.0,7969.0,CARPET AREA,3300.0,4,Unknown,4
+1447 sqft,Apartment,"Financial District, Nanakram Guda Hyderabad",24200000.0,12040.0,CARPET AREA,1447.0,3,Unknown,3
+Prestige Clairemont,Apartment,"Kokapet, Outer Ring Road Hyderabad",30000000.0,13292.0,SUPER AREA,2257.0,3,Unfurnished,3
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,14000000.0,9109.0,CARPET AREA,1537.0,2,Unknown,2
+Prestige Clairemont,Apartment,Neopolis Hyderabad,47000000.0,13292.0,CARPET AREA,3219.0,4,Unknown,4
+Sattva Lake Ridge,Apartment,"Kokapet, Outer Ring Road Hyderabad",39000000.0,14213.0,CARPET AREA,1857.0,3,Unknown,3
+Nandini Enclave,Apartment,Himayatnagar Hyderabad,25000000.0,12195.0,CARPET AREA,2000.0,3,Unknown,3
+Sanali Heavens,Apartment,"Punjagutta, NH 9 Hyderabad",9500000.0,7037.0,CARPET AREA,1300.0,3,Unknown,3
+Elegantea Skyven,Apartment,Power Welfare Society Hyderabad,74500000.0,12500.0,SUPER AREA,5962.0,4,Unknown,4
+Lansum Elena,Apartment,"Kokapet, Outer Ring Road Hyderabad",32200000.000000004,11891.0,CARPET AREA,2100.0,4,Unknown,4
+Samvir Maharaja Kosmopolis,Apartment,"Kollur, Outer Ring Road Hyderabad",10500000.0,5949.0,SUPER AREA,1765.0,3,Unknown,3
+Honer Signatis,Apartment,"Kukatpally, NH 9 Hyderabad",20000000.0,10610.0,SUPER AREA,1885.0,3,Unknown,3
+Elan By Meenakshi,Apartment,Sri Ram Nagar Colony Puppalguda Hyderabad,90900000.0,12569.0,SUPER AREA,7240.0,4,Unknown,4
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",17000000.0,9884.0,SUPER AREA,1720.0,3,Unknown,3
+Fortune Suraj Bhan Grande by SSI,Apartment,"Kokapet, Outer Ring Road Hyderabad",44200000.0,10200.0,CARPET AREA,2785.0,4,Unknown,4
+Lansum El Palacio,Apartment,Puppalguda Hyderabad,16800000.0,9832.0,SUPER AREA,1715.0,3,Unknown,3
+Lansum Elena,Apartment,"Kokapet, Outer Ring Road Hyderabad",34200000.0,10500.0,SUPER AREA,3260.0,4,Unknown,4
+Prestige High Fields,Apartment,Gachibowli Hyderabad,20100000.0,13472.0,SUPER AREA,1492.0,2,Unknown,2
+DSR VALAR,Apartment,"Kokapet, Outer Ring Road Hyderabad",50000000.0,12255.0,CARPET AREA,2800.0,4,Unknown,4
+1060 sqft,Apartment,HMT Nagar Hyderabad,7500000.0,6818.0,CARPET AREA,1060.0,2,Furnished,2
+1100 sqft,Apartment,Puppalguda Hyderabad,9000000.0,7500.0,CARPET AREA,1100.0,2,Unknown,2
+Myrah Avenue,Apartment,SBI Officers Colony Siddhi Vinayak Nagar Hyderabad,22500000.0,9184.0,CARPET AREA,2000.0,4,Unknown,4
+Vajram Ixora,Apartment,Gopanpalle Hyderabad,21800000.0,8773.0,CARPET AREA,1479.0,3,Unknown,3
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,38000000.0,13194.0,SUPER AREA,2880.0,3,Unknown,3
+Skymarq By DSR,Apartment,Puppalguda Hyderabad,55000000.0,11002.0,SUPER AREA,4999.0,4,Unknown,4
+Prestige Beverly Hills,Apartment,"Kokapet, Outer Ring Road Hyderabad",38000000.0,14032.0,SUPER AREA,2708.0,4,Unknown,4
+Ramky One Symphony,Apartment,Patancheruvu Hyderabad,9800000.0,7747.0,SUPER AREA,1265.0,3,Unknown,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,23000000.0,12596.0,CARPET AREA,1228.0,3,Unknown,3
+1300 sqft,Apartment,"Dews Ville, Manchirevula Hyderabad",9400000.0,7231.0,CARPET AREA,1300.0,3,Unfurnished,3
+Rajapushpa Infina,Apartment,"Manchirevula, Outer Ring Road Hyderabad",24300000.0,7900.0,SUPER AREA,3080.0,3,Unknown,3
+SAS Srias Diamond Towers,Apartment,"Financial District, Nanakram Guda Hyderabad",39000000.0,10000.0,CARPET AREA,3100.0,4,Unknown,4
+Honer Vivantis,Apartment,Gopanpalle Hyderabad,17900000.0,10405.0,CARPET AREA,1680.0,3,Unknown,3
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,19500000.0,10000.0,CARPET AREA,1623.0,3,Unknown,3
+950 sqft,Apartment,Hastinapuram Hyderabad,6500000.0,6842.0,CARPET AREA,950.0,2,Unfurnished,2
+Jains Fairmount Sri Ram Garden 2,Apartment,Kompally Hyderabad,9800000.0,8376.0,CARPET AREA,950.0,2,Unfurnished,2
+Muppas Aaradhya,Apartment,"Narsingi, Outer Ring Road Hyderabad",12500000.0,8803.0,SUPER AREA,1420.0,3,Unknown,3
+900 sqft,Apartment,"Pocharam, NH 2 2 Hyderabad",7800000.0,6555.0,CARPET AREA,900.0,2,Unknown,2
+Modi Greenwood Residency,Apartment,Yapral Hyderabad,6500000.0,5285.0,SUPER AREA,1230.0,2,Unfurnished,2
+1040 sqft,Apartment,"Indresham, Bachuguda Hyderabad",4400000.0,4230.7692307692305,CARPET AREA,1040.0,2,Unfurnished,2
+1380 sqft,Apartment,Bandlaguda Jagir Hyderabad,9800000.0,6844.0,CARPET AREA,1380.0,3,Furnished,3
+Nebula Aavaas,Apartment,"Miyapur, NH 9 Hyderabad",8300000.0,6837.0,SUPER AREA,1214.0,2,Unknown,2
+Modi Sterling Heights,Apartment,"Gundlapochampally, Outer Ring Road Hyderabad",8800000.0,5677.0,CARPET AREA,1200.0,3,Unknown,3
+Anantha Arcade,Apartment,Nagole Hyderabad,7200000.0,5950.0,CARPET AREA,1200.0,2,Unknown,2
+Universal Botanika,Apartment,Gachibowli Hyderabad,80000000.0,17817.0,SUPER AREA,4490.0,4,Unknown,4
+Greenmark Mayfair Apartments,Apartment,"Tellapur, Outer Ring Road Hyderabad",21000000.0,10082.0,SUPER AREA,2083.0,3,Furnished,3
+Cyber Greens,Apartment,Maheshwaram Hyderabad,6500000.0,4862.0,SUPER AREA,1337.0,2,Unknown,2
+SMR Vinay Fountainhead,Apartment,"Miyapur, NH 9 Hyderabad",18000000.0,9449.0,CARPET AREA,1500.0,3,Unknown,3
+1200 sqft,Apartment,"SV Residency, Mehdipatnam Hyderabad",7500000.0,6250.0,SUPER AREA,1200.0,2,Semi-Furnished,3
+2850 sqft,Apartment,BANJARA HILLS ROAD NO 11 Hyderabad,42699999.99999999,15000.0,SUPER AREA,2850.0,3,Furnished,3
+Godrej Madison Avenue,Apartment,"Kokapet, Outer Ring Road Hyderabad",26800000.0,11429.0,CARPET AREA,1640.0,3,Unknown,3
+Tamra Asteria,Apartment,Bandlaguda Jagir Hyderabad,29500000.0,9486.0,SUPER AREA,3110.0,3,Unknown,3
+Aparna Serene Park,Apartment,Kondapur Hyderabad,21000000.0,14094.0,CARPET AREA,1050.0,3,Unknown,3
+Sri Balaji Apartments,Apartment,Malkajgiri Hyderabad,3300000.0,4521.0,SUPER AREA,730.0,2,Semi-Furnished,2
+Ramky One Genext Towers,Apartment,"Uppal, NH 2 2 Hyderabad",19900000.0,10699.0,SUPER AREA,1860.0,3,Unfurnished,3
+Prestige Trident,Apartment,"LB Nagar, NH 9 Hyderabad",16000000.0,8840.0,SUPER AREA,1810.0,3,Unknown,3
+Bhavyas Tulasivanam,Apartment,"Kukatpally, NH 9 Hyderabad",8230000.0,7251.0,SUPER AREA,1135.0,2,Semi-Furnished,2
+Fortune Greenspace Celestial,Apartment,"Kokapet, Outer Ring Road Hyderabad",12000000.0,9160.0,CARPET AREA,1048.0,2,Unknown,2
+Rajapushpa Regalia,Apartment,"Kokapet, Outer Ring Road Hyderabad",28500000.0,13134.0,SUPER AREA,2170.0,3,Unknown,3
+The Prestige City,Apartment,Rajendra Nagar Road Hyderabad,38000000.0,11320.0,SUPER AREA,3357.0,4,Unknown,4
+ASBL Lakeside,Apartment,Khajaguda Hyderabad,15500000.0,10000.0,CARPET AREA,1335.0,2,Unknown,2
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",14300000.0,10554.0,CARPET AREA,1000.0,2,Unknown,2
+920 sqft,Apartment,Nagole Bandlaguda Road Hyderabad,11000000.0,6471.0,CARPET AREA,920.0,3,Furnished,3
+Himagiri Saroja Hills,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",4500000.0,6569.343065693431,CARPET AREA,685.0,2,Semi-Furnished,2
+D Address,Apartment,Hitech City Hyderabad,42000000.0,13770.0,CARPET AREA,2500.0,3,Unknown,3
+1205 sqft,Apartment,Sri Ram Nagar Kondapur Hyderabad,11000000.0,8494.0,CARPET AREA,1205.0,2,Semi-Furnished,2
+Aaditri Housing Projects,Apartment,"Kollur, Outer Ring Road Hyderabad",8300000.0,6640.0,SUPER AREA,1250.0,2,Unknown,2
+The Prestige City,Apartment,Bangalore Hyderabad Highway Hyderabad,38000000.0,11320.0,CARPET AREA,2098.0,4,Unknown,4
+1160 sqft,Apartment,Gagillapur Hyderabad,4940000.0,4259.0,SUPER AREA,1160.0,2,Unfurnished,2
+1900 sqft,Apartment,Anand Nagar Colony Khairtabad Hyderabad,19500000.0,9066.0,CARPET AREA,1900.0,3,Semi-Furnished,3
+Green Terraces,Apartment,Nagole Hyderabad,7350000.0,6504.0,CARPET AREA,950.0,2,Unknown,2
+EIPL Apila,Apartment,"Narsingi, Outer Ring Road Hyderabad",25000000.0,11161.0,SUPER AREA,2240.0,3,Unknown,3
+1300 sqft,Apartment,Tarnaka Hyderabad,9000000.0,6923.0,CARPET AREA,1300.0,3,Semi-Furnished,3
+Ananda Homes Poe tree Extension,Apartment,"Narsingi, Outer Ring Road Hyderabad",17200000.0,13150.0,SUPER AREA,1308.0,2,Semi-Furnished,2
+HIG Chitrapuri HILLS,Apartment,Khajaguda Hyderabad,12500000.0,7485.0,CARPET AREA,1500.0,3,Unknown,3
+Hallmark Vesta,Apartment,Pati Hyderabad,14500000.0,8499.0,SUPER AREA,1706.0,3,Unknown,3
+Concrete Harmony,Apartment,OU Colony Shaikpet Hyderabad,11500000.0,7443.0,CARPET AREA,1545.0,3,Furnished,3
+Sattva Lake Ridge,Apartment,"Kokapet, Outer Ring Road Hyderabad",37000000.0,13484.0,CARPET AREA,2250.0,3,Unfurnished,3
+Lahari Greens,Apartment,Bowenpally Hyderabad,10500000.0,6269.0,CARPET AREA,1475.0,3,Unknown,3
+1305 sqft,Apartment,Sangareddy Hyderabad,6500000.0,4984.0,SUPER AREA,1305.0,3,Unknown,3
+Lansum EL Dorado,Apartment,"Narsingi, Outer Ring Road Hyderabad",25500000.0,11461.0,CARPET AREA,2225.0,3,Unknown,3
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",26000000.0,11712.0,SUPER AREA,2220.0,3,Unknown,3
+Sterling Orchids,Apartment,Bachupally Hyderabad,9800000.0,4987.0,CARPET AREA,1965.0,3,Unknown,3
+Srinilaya Residenza,Apartment,Kondapur Hyderabad,16000000.0,8649.0,CARPET AREA,1800.0,3,Unknown,3
+The Prestige City,Apartment,Rajendranagar Mandal Hyderabad,20500000.0,10005.0,SUPER AREA,2049.0,3,Unknown,3
+Aashvi Urban Habitat,Apartment,Nagole Hyderabad,9930000.0,6598.0,SUPER AREA,1505.0,2,Unfurnished,2
+Rajiv Sahira,Apartment,Gajularamaram Hyderabad,9500000.0,6525.0,SUPER AREA,1456.0,3,Unfurnished,2
+RDB Legend Harmony,Apartment,Serilingampalle M Hyderabad,13500000.0,7525.0,SUPER AREA,1794.0,3,Unknown,3
+Urbanrise On Cloud 33,Apartment,Bollaram Industrial Area Hyderabad,12100000.0,7500.0,CARPET AREA,1122.0,3,Unknown,3
+1780 sqft,Apartment,Velmala Hyderabad,14000000.0,7865.0,SUPER AREA,1780.0,3,Unknown,3
+Aurobindo Kohinoor,Apartment,Izzathnagar Hyderabad,48000000.0,16282.0,SUPER AREA,2948.0,4,Unknown,4
+Aparna Kanopy Yellow Bells,Apartment,"Gundlapochampally, Outer Ring Road Hyderabad",19000000.0,10064.0,CARPET AREA,1475.0,3,Semi-Furnished,3
+1147 sqft,Apartment,Kowkoor Hyderabad,5300000.0,4621.0,SUPER AREA,1147.0,2,Unknown,2
+4375 sqft,Apartment,Madhapur Hyderabad,60000000.0,13714.0,CARPET AREA,4375.0,5,Semi-Furnished,5
+Parijatha Pride,Apartment,Shamirpet Hyderabad,4500000.0,4500.0,SUPER AREA,1000.0,2,Semi-Furnished,2
+Ramky One Symphony,Apartment,Patancheruvu Hyderabad,11800000.0,7445.0,CARPET AREA,1023.0,3,Unknown,3
+Balaji Nilayam,Apartment,Tarnaka Hyderabad,13000000.0,5417.0,CARPET AREA,2300.0,4,Unknown,4
+1550 sqft,Apartment,Narepally Hyderabad,8500000.0,5312.0,CARPET AREA,1550.0,3,Unknown,3
+Jains Balaji Nilayam Casa Waterside,Apartment,Chanakyapuri Malkajgiri Hyderabad,18000000.0,10000.0,CARPET AREA,1073.0,3,Unknown,3
+PGR Crest,Apartment,Hyderguda Hyderabad,10800000.0,8926.0,CARPET AREA,1050.0,2,Unknown,2
+Frontline Seven,Apartment,"Kokapet, Outer Ring Road Hyderabad",23500000.0,10755.0,CARPET AREA,2100.0,3,Unknown,3
+1200 sqft,Apartment,Sri Nagar Colony Hyderabad,12500000.0,9191.0,CARPET AREA,1200.0,2,Furnished,2
+Srinivasa Heights,Apartment,Adarsh Nagar Uppal Hyderabad,6500000.0,6667.0,CARPET AREA,750.0,2,Unknown,2
+Sri Raj Garuda Royal,Apartment,"Bowrampet, Outer Ring Road Hyderabad",11000000.0,6433.0,SUPER AREA,1710.0,3,Unknown,3
+Raheja Vistas,Apartment,Nacharam Hyderabad,11000000.0,8462.0,SUPER AREA,1300.0,3,Unknown,3
+1950 sqft,Apartment,New Friends Colony Hyderabad,15000000.0,6818.0,CARPET AREA,1950.0,3,Unknown,3
+1400 sqft,Apartment,"Kollur, Outer Ring Road Hyderabad",14000000.0,7568.0,CARPET AREA,1400.0,3,Unfurnished,3
+SRR River View,Apartment,"Narsingi, Outer Ring Road Hyderabad",29000000.0,11395.0,CARPET AREA,2100.0,4,Unknown,4
+Sree Chaitanya Urban Abode,Apartment,Velmala Hyderabad,12700000.0,6921.0,CARPET AREA,1388.0,3,Unknown,3
+Modi Lake View,Apartment,Rajiv Gruha Kalpa Airport Road Hyderabad,11000000.0,6307.0,CARPET AREA,1102.0,3,Unknown,3
+1410 sqft,Apartment,"Tellapur, Outer Ring Road Hyderabad",9800000.0,6950.0,SUPER AREA,1410.0,3,Unknown,3
+Flora Essence,Apartment,Gachibowli Hyderabad,14800000.0,8783.0,SUPER AREA,1685.0,3,Unknown,3
+1200 sqft,Apartment,Street No 8 Hyderabad,9500000.0,7917.0,SUPER AREA,1200.0,2,Unfurnished,2
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,25000000.0,9843.0,SUPER AREA,2540.0,3,Unknown,3
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,21800000.0,13054.0,CARPET AREA,1160.0,3,Unknown,3
+Space Station Township,Apartment,"Tellapur, Outer Ring Road Hyderabad",15000000.0,8955.0,CARPET AREA,1104.0,3,Unknown,3
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",25000000.0,11261.0,SUPER AREA,2220.0,3,Unknown,3
+My Home Nishada,Apartment,Neopolis Hyderabad,70000000.0,17430.0,SUPER AREA,4016.0,4,Unfurnished,4
+Tripura Green Alpha,Apartment,"Tellapur, Outer Ring Road Hyderabad",8500000.0,6719.0,CARPET AREA,834.0,2,Unknown,2
+Amrutha Value,Apartment,Manikonda Jagir Hyderabad,17200000.0,9200.0,SUPER AREA,1875.0,3,Unknown,3
+Gem Nakshathra,Apartment,"Kokapet, Outer Ring Road Hyderabad",20000000.0,11050.0,SUPER AREA,1810.0,3,Unknown,3
+950 sqft,Apartment,Jaya Prakash Nagar Yella Reddy Guda Hyderabad,6700000.0,6381.0,CARPET AREA,950.0,2,Semi-Furnished,2
+Aparna Zenon,Apartment,Puppalguda Hyderabad,26000000.0,13118.0,CARPET AREA,1318.0,3,Unknown,3
+SMR Vinay Iconia,Apartment,Kondapur Hyderabad,26500000.0,10095.0,SUPER AREA,2625.0,4,Unknown,4
+Lansum EL Dorado,Apartment,"Narsingi, Outer Ring Road Hyderabad",19400000.0,10430.0,SUPER AREA,1860.0,3,Unknown,3
+My Home Avatar,Apartment,"Narsingi, Outer Ring Road Hyderabad",17000000.0,12938.0,CARPET AREA,900.0,2,Unknown,2
+2410 sqft,Apartment,"Panchasheel Enclave, Secunderabad Hyderabad",14600000.0,6058.091286307054,CARPET AREA,2410.0,3,Furnished,3
+2455 sqft,Apartment,"Kollur, Outer Ring Road Hyderabad",19000000.0,7739.0,SUPER AREA,2455.0,3,Unknown,3
+Signature Fortius,Apartment,"Isnapur, Outer Ring Road Hyderabad",6970000.0,5760.0,CARPET AREA,1205.0,2,Unknown,2
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,22900000.0,12000.0,CARPET AREA,1800.0,3,Unknown,3
+NSks Nikhil Krishna Crown,Apartment,Ameenpur Hyderabad,6500000.0,5603.0,SUPER AREA,1160.0,2,Unknown,2
+My Home Krishe,Apartment,Nanakaramguda Hyderabad,27500000.0,14986.0,CARPET AREA,1275.0,3,Unknown,3
+Ramky One Genext Towers,Apartment,"Uppal, NH 2 2 Hyderabad",14500000.0,9635.0,SUPER AREA,1505.0,3,Unknown,3
+1260 sqft,Apartment,"Kokapet, Outer Ring Road Hyderabad",8700000.0,6000.0,CARPET AREA,1260.0,3,Semi-Furnished,2
+1500 sqft,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",15000000.0,8824.0,CARPET AREA,1500.0,3,Furnished,3
+Sri Sai Viradhya,Apartment,"Peerzadiguda, NH 2 2 Hyderabad",12500000.0,8573.0,SUPER AREA,1458.0,3,Unknown,3
+Aparna Zenon,Apartment,Khajaguda Hyderabad,16600000.0,10641.0,CARPET AREA,1228.0,3,Unknown,3
+Lodha Meridian,Apartment,"Kukatpally Housing Board Colony, NH 9 Hyderabad",16000000.0,11111.0,CARPET AREA,1213.0,2,Unknown,2
+Rudhra Bhuvi,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",8900000.0,6915.0,CARPET AREA,1121.0,2,Unknown,2
+Vertex Sadguru Krupa,Apartment,Nizampet Road Hyderabad,15000000.0,8451.0,CARPET AREA,1775.0,3,Unknown,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,26000000.0,14286.0,CARPET AREA,1148.0,3,Unknown,3
+Nallakunta,Apartment,Vidyanagar New Nallakunta Hyderabad,8800000.0,8148.0,CARPET AREA,1000.0,2,Unknown,2
+1350 sqft,Apartment,Jaya Nagar Saidabad Hyderabad,12900000.0,8583.0,CARPET AREA,1350.0,3,Unknown,3
+1079 sqft,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",9440000.0,7000.0,CARPET AREA,1079.0,3,Unknown,3
+Prestige High Fields,Apartment,"Financial District, Nanakram Guda Hyderabad",50000000.0,18322.0,SUPER AREA,2729.0,4,Unknown,4
+600 sqft,Apartment,Nagaram Hyderabad,2800000.0,4308.0,CARPET AREA,600.0,2,Unknown,2
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,18000000.0,8721.0,CARPET AREA,1821.0,3,Unknown,3
+Primark Inspira,Apartment,"Miyapur, NH 9 Hyderabad",16500000.0,8148.0,CARPET AREA,1821.0,3,Unknown,3
+Pranathi Kiara,Apartment,"Tellapur, Outer Ring Road Hyderabad",11000000.0,7358.0,SUPER AREA,1495.0,3,Unfurnished,2
+1150 sqft,Apartment,Bahadurpally Hyderabad,5290000.0,4600.0,SUPER AREA,1150.0,2,Unfurnished,2
+2100 sqft,Apartment,"Bongloor, Outer Ring Road Hyderabad",13000000.0,5000.0,CARPET AREA,2100.0,3,Unfurnished,3
+Salarpuria Sattva Necklace Pride,Apartment,"Kavadiguda, NH 7 Hyderabad",39500000.0,16660.0,CARPET AREA,2371.0,3,Unknown,3
+Vinayaka Pranav Residency,Apartment,Gajularamaram Hyderabad,5900000.0,5673.0,SUPER AREA,1040.0,2,Furnished,2
+Aditya Empress Towers,Apartment,Shaikpet Hyderabad,28500000.0,11950.0,CARPET AREA,2300.0,3,Unknown,3
+2250 sqft,Apartment,"Hyder Nagar, NH 9 Hyderabad",20500000.0,9112.0,SUPER AREA,2250.0,3,Semi-Furnished,3
+1301 sqft,Apartment,Muzaffar Ahmad Nagar Hyderabad,9750000.0,7494.0,SUPER AREA,1301.0,2,Unfurnished,2
+Suncity,Apartment,"Kollur, Outer Ring Road Hyderabad",6800000.0,5037.0,SUPER AREA,1350.0,3,Unknown,3
+Sunshine Destino,Apartment,Puppalguda Hyderabad,12600000.0,9000.0,CARPET AREA,1300.0,2,Unknown,2
+550 sqft,Apartment,Chilka Nagar Main Road Hyderabad,2500000.0,4167.0,CARPET AREA,550.0,1,Unfurnished,2
+Alekhya Palm Woods,Apartment,Nanakaramguda Hyderabad,19000000.0,11912.0,CARPET AREA,1500.0,3,Unknown,3
+1640 sqft,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",10000000.0,5155.0,CARPET AREA,1640.0,3,Unknown,3
+Trendset Allure,Apartment,"Kokapet, Outer Ring Road Hyderabad",38500000.0,11596.0,SUPER AREA,3320.0,4,Unfurnished,4
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",25000000.0,11312.0,CARPET AREA,2100.0,3,Unknown,3
+TNR North City Residency,Apartment,Jeedimetla Hyderabad,17500000.0,9115.0,CARPET AREA,1800.0,3,Unknown,3
+SMR Vinay Technopolis,Apartment,Madhapur Hyderabad,9100000.0,7081.712062256809,CARPET AREA,1285.0,2,Semi-Furnished,2
+1730 sqft,Apartment,"Ameerpet, NH 9 Hyderabad",18000000.0,8785.0,CARPET AREA,1730.0,3,Unknown,3
+Janapriya Sitara,Apartment,Sainikpuri Hyderabad,3800000.0,5938.0,CARPET AREA,600.0,2,Unknown,2
+1650 sqft,Apartment,"Sundar Nagar, Sanath Nagar Hyderabad",17500000.0,9211.0,CARPET AREA,1650.0,3,Unknown,3
+Indis PBEL City,Apartment,Appa Junction Area Hyderabad,11700000.0,8503.0,CARPET AREA,1300.0,2,Unknown,2
+1860 sqft,Apartment,Shivarampally Jagir Hyderabad,19500000.0,8478.0,CARPET AREA,1860.0,3,Unknown,3
+SR Garuda,Apartment,"Kaithalapur, Borabanda Hyderabad",11000000.0,7857.0,CARPET AREA,1340.0,3,Unknown,3
+Divine Space,Apartment,"Tellapur, Outer Ring Road Hyderabad",10200000.0,7537.0,CARPET AREA,1300.0,3,Unknown,3
+Modi Greenwood Residency,Apartment,Alwal Hyderabad,7000000.0,5691.0,SUPER AREA,1230.0,2,Unknown,2
+Indis PBEL City,Apartment,Appa Junction Area Hyderabad,12300000.0,7915.0,CARPET AREA,1200.0,3,Unknown,3
+Aditya Empress Towers,Apartment,Shaikpet Hyderabad,22500000.0,11250.0,CARPET AREA,1500.0,3,Unknown,3
+1650 sqft,Apartment,Masjid Banda Hyderabad,14000000.0,8485.0,SUPER AREA,1650.0,3,Unknown,3
+GMR Alpine Springfields,Apartment,Kompally Hyderabad,6000000.0,5000.0,SUPER AREA,1200.0,2,Unknown,2
+Urbanrise On Cloud 33,Apartment,Bachupally Hyderabad,8500000.0,7658.0,SUPER AREA,1110.0,2,Unfurnished,2
+Aparna Kanopy Marigold,Apartment,"Gundlapochampally, Outer Ring Road Hyderabad",9500000.0,7600.0,SUPER AREA,1250.0,2,Unknown,2
+950 sqft,Apartment,"Shilpa Nagar, Secunderabad Hyderabad",5800000.0,5022.0,CARPET AREA,950.0,3,Unfurnished,3
+Svadha Mackennas,Apartment,"Kollur, Outer Ring Road Hyderabad",15800000.0,6840.0,SUPER AREA,2310.0,3,Unknown,3
+Hill County,Apartment,Nizampet Hyderabad,14500000.0,7636.0,CARPET AREA,1521.0,3,Unknown,3
+1000 sqft,Apartment,Jillelaguda Road Hyderabad,7500000.0,6614.0,CARPET AREA,1000.0,2,Unknown,2
+1080 sqft,Apartment,Madhura Nagar Shamshabad Hyderabad,6850000.0,5352.0,CARPET AREA,1080.0,2,Semi-Furnished,2
+Aparna CyberHeights,Apartment,Osman Nagar Hyderabad,13000000.0,7324.0,CARPET AREA,1700.0,2,Unknown,2
+Pooja Residency,Apartment,Kondapur Hyderabad,11000000.0,10000.0,CARPET AREA,910.0,2,Unknown,2
+2700 sqft,Apartment,Manikonda Jagir Hyderabad,21000000.0,7636.0,CARPET AREA,2700.0,4,Unknown,4
+Tranquillo MPR Urban City,Apartment,Patancheruvu Hyderabad,4900000.0,5385.0,CARPET AREA,685.0,2,Unknown,2
+EIPL Skyila Gated Community,Apartment,Puppalguda Hyderabad,25000000.0,11468.0,SUPER AREA,2180.0,3,Unknown,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,18300000.0,11961.0,CARPET AREA,1100.0,3,Unknown,3
+1300 sqft,Apartment,"Tellapur, Outer Ring Road Hyderabad",14000000.0,10000.0,CARPET AREA,1300.0,3,Unknown,3
+Sri Sai Balaji Enclave,Apartment,"Mallampet, Outer Ring Road Hyderabad",6000000.0,5455.0,CARPET AREA,950.0,2,Unknown,2
+Badam Apartments,Apartment,"Somajiguda, NH 9 Hyderabad",8000000.0,7843.0,SUPER AREA,1020.0,2,Unfurnished,2
+Feel Good Homes,Apartment,Bairagiguda Hyderabad,12000000.0,7595.0,SUPER AREA,1580.0,3,Unknown,3
+1750 sqft,Apartment,"Barkatpura, Kachiguda, NH 2 2 Hyderabad",18500000.0,8685.0,CARPET AREA,1750.0,4,Furnished,4
+Satyam Heights,Apartment,"Rajiv Gandhi Nagar Colony, Nizampet Hyderabad",7500000.0,4983.0,CARPET AREA,1200.0,3,Unknown,3
+Trendset Jayabheri Elevate,Apartment,Kondapur Hyderabad,38500000.0,15217.0,CARPET AREA,2040.0,3,Unknown,3
+Aparna Luxor Park,Apartment,Kondapur Hyderabad,38200000.0,15983.0,SUPER AREA,2390.0,3,Unknown,3
+Gothic Pentagon Clouds,Apartment,Bachupally Hyderabad,18500000.0,7974.0,SUPER AREA,2320.0,3,Unknown,3
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",20400000.0,9976.0,CARPET AREA,2000.0,3,Unknown,3
+Pacifica Aavaas,Apartment,Nizampet Miyapur Road Hyderabad,8500000.0,7002.0,CARPET AREA,1101.0,2,Unknown,2
+1251 sqft,Apartment,Kompally Hyderabad,8200000.0,5203.0,CARPET AREA,1251.0,3,Unknown,3
+W By DSR,Apartment,Kondapur Hyderabad,75000000.0,12502.0,CARPET AREA,5000.0,4,Unknown,4
+Casagrand Evon,Apartment,Kompally Hyderabad,16299999.999999998,8199.0,CARPET AREA,1421.0,3,Unknown,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,18500000.0,12092.0,CARPET AREA,1016.0,3,Unknown,3
+Nandini Enclave,Apartment,Domalguda Himayatnagar Hyderabad,25000000.0,12195.0,CARPET AREA,2000.0,3,Unknown,3
+1635 sqft,Apartment,"Narsingi, Outer Ring Road Hyderabad",22500000.0,10321.0,CARPET AREA,1635.0,3,Unknown,3
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,40500000.0,14062.0,SUPER AREA,2880.0,4,Unknown,4
+Auro Kohinoor Phase Iii,Apartment,Hitech City Hyderabad,43000000.0,14636.0,CARPET AREA,2400.0,4,Unknown,4
+Alekhya Rise,Apartment,"Kokapet, Outer Ring Road Hyderabad",92400000.0,15000.0,SUPER AREA,6165.0,4,Unfurnished,4
+Ramky One Kosmos,Apartment,Nallagandla Tellapur Road Hyderabad,12500000.0,11261.0,CARPET AREA,1000.0,2,Unknown,2
+Meenakshi Sky Lounge,Apartment,Kothaguda Hyderabad,30000000.0,12422.0,CARPET AREA,2400.0,3,Unknown,3
+Aparna Kanopy Tulip,Apartment,Kompally Hyderabad,13000000.0,9028.0,CARPET AREA,1400.0,3,Unknown,3
+Kaikala Mahalakshmi Residency,Apartment,Manikonda Jagir Hyderabad,8800000.0,7040.0,CARPET AREA,1100.0,2,Unknown,2
+Ark Hema,Apartment,Gajularamaram Hyderabad,8600000.0,7191.0,CARPET AREA,1090.0,2,Unknown,2
+1300 sqft,Apartment,Mithila Nagar Pragathi Nagar Hyderabad,10600000.0,6625.0,CARPET AREA,1300.0,3,Unfurnished,3
+1050 sqft,Apartment,Kistareddypet Hyderabad,5500000.0,5238.0,SUPER AREA,1050.0,2,Semi-Furnished,2
+Nebula Aavaas,Apartment,"Miyapur, NH 9 Hyderabad",8200000.0,6755.0,CARPET AREA,992.0,2,Unknown,2
+Aparna One,Apartment,Shaikpet Hyderabad,60000000.0,20862.0,CARPET AREA,2800.0,3,Unknown,3
+Sumadhuras Gardens By The Brook,Apartment,Shamshabad Hyderabad,14500000.0,8923.0,SUPER AREA,1625.0,3,Unknown,3
+3000 sqft,Apartment,"Adarsh Nagar, NH 7 Hyderabad",40000000.0,12903.0,CARPET AREA,3000.0,5,Unknown,5
+Vaishnavi Heights,Apartment,Kondapur Hyderabad,13799999.999999998,7533.0,CARPET AREA,1828.0,3,Furnished,3
+Pooja Residency,Apartment,Kondapur Hyderabad,15000000.0,10087.0,CARPET AREA,1190.0,3,Unknown,3
+1165 sqft,Apartment,Adibatla Hyderabad,5300000.0,4549.0,CARPET AREA,1165.0,2,Unknown,2
+2300 sqft,Apartment,"LB Nagar, NH 9 Hyderabad",14600000.0,6207.0,CARPET AREA,2300.0,3,Unfurnished,3
+Aparna CyberHeights,Apartment,Osman Nagar Hyderabad,16299999.999999998,8878.0,CARPET AREA,1400.0,3,Unknown,3
+Aparna Hill Park Avenues,Apartment,Chanda Nagar Hyderabad,13500000.0,9643.0,SUPER AREA,1400.0,3,Unknown,3
+Origin Amogha,Apartment,Velmala Hyderabad,14200000.0,8018.0,SUPER AREA,1780.0,3,Unfurnished,3
+1222 sqft,Apartment,"Miyapur, NH 9 Hyderabad",12000000.0,8054.0,CARPET AREA,1222.0,3,Unknown,3
+Lansum EL Dorado,Apartment,"Narsingi, Outer Ring Road Hyderabad",23700000.0,11000.0,CARPET AREA,1508.0,3,Unknown,3
+NCL LB Godavari Homes,Apartment,"Quthbullapur, NH 7 Hyderabad",15500000.0,8378.0,CARPET AREA,1800.0,3,Unknown,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,17300000.0,13047.0,CARPET AREA,1326.0,2,Unknown,2
+Imperial Park,Apartment,"Narsingi, Outer Ring Road Hyderabad",9000000.0,7407.0,SUPER AREA,1215.0,2,Semi-Furnished,2
+Greenmark Mayfair Apartments,Apartment,"Jyothi Rao Pule Colony, Serilingampally Hyderabad",19000000.0,11467.0,SUPER AREA,1657.0,3,Unknown,3
+1051 sqft,Apartment,Gajularamaram Hyderabad,7200000.0,5647.0,CARPET AREA,1051.0,2,Unknown,2
+Honer Vivantis,Apartment,Gopanpalle Hyderabad,19500000.0,10569.0,SUPER AREA,1845.0,3,Unknown,3
+Aparna Hill Park Avenues,Apartment,Gangaram Chanda Nagar Hyderabad,9900000.0,7765.0,CARPET AREA,1275.0,2,Unknown,2
+Rajapushpa Atria,Apartment,Gachibowli Hyderabad,25500000.0,12143.0,SUPER AREA,2100.0,3,Unknown,3
+1687 sqft,Apartment,"Somajiguda, NH 9 Hyderabad",13700000.000000002,7753.0,CARPET AREA,1687.0,3,Semi-Furnished,3
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",20000000.0,9780.0,SUPER AREA,2045.0,3,Unknown,3
+My Home Avatar,Apartment,"Narsingi, Outer Ring Road Hyderabad",24000000.0,13086.0,CARPET AREA,1500.0,3,Unknown,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,14300000.0,10916.0,CARPET AREA,1250.0,2,Unknown,2
+1836 sqft,Apartment,Manikonda Jagir Hyderabad,16000000.0,8715.0,SUPER AREA,1836.0,3,Furnished,3
+Prestige Clairemont,Apartment,Power Welfare Society Hyderabad,52500000.0,13005.0,CARPET AREA,2530.0,4,Unfurnished,4
+Northstar District 1,Apartment,Puppalguda Hyderabad,25900000.0,12800.0,CARPET AREA,1850.0,3,Unknown,3
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,36000000.0,12500.0,SUPER AREA,2880.0,3,Unknown,3
+1200 sqft,Apartment,Manikonda Jagir Hyderabad,11000000.0,7358.0,CARPET AREA,1200.0,3,Unknown,3
+Indis One City,Apartment,Phase 5th KPHB Hyderabad,17900000.0,11244.0,CARPET AREA,1592.0,3,Unknown,3
+SMR Vinay Boulder Woods,Apartment,"Abhudaya Nagar Colony, Bandlaguda Hyderabad",9800000.0,7050.0,CARPET AREA,1100.0,2,Unknown,2
+2750 sqft,Apartment,Neopolis Hyderabad,50199999.99999999,18254.545454545452,CARPET AREA,2750.0,4,Unknown,4
+L&T Serene County,Apartment,Telecom Nagar Gachibowli Hyderabad,33000000.0,12222.0,CARPET AREA,2600.0,4,Unknown,4
+Raghava IRIS,Apartment,Rai Durg Hyderabad,85000000.0,15654.0,CARPET AREA,4800.0,4,Unknown,4
+900 sqft,Apartment,Rangareddy Hyderabad,5900000.0,5900.0,CARPET AREA,900.0,2,Unknown,2
+Vian Vayu,Apartment,"Kollur, Outer Ring Road Hyderabad",12000000.0,6735.0,CARPET AREA,1790.0,3,Unknown,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,22000000.0,11100.0,CARPET AREA,1228.0,3,Unknown,3
+1450 sqft,Apartment,Hastinapuram Hyderabad,7200000.0,4848.0,CARPET AREA,1450.0,3,Unknown,3
+BSCPL Bollineni Bion,Apartment,Kondapur Hyderabad,18500000.0,14341.0,CARPET AREA,899.0,2,Semi-Furnished,2
+700 sqft,Apartment,Gandhi Nagar Kavadiguda Hyderabad,5200000.0,6933.0,CARPET AREA,700.0,2,Unknown,2
+Advent Homes,Apartment,"Isnapur, Outer Ring Road Hyderabad",6500000.0,5752.0,SUPER AREA,1130.0,2,Semi-Furnished,2
+Vaishnavi Enclave Amberpet,Apartment,Amberpet Hyderabad,12500000.0,8929.0,CARPET AREA,1200.0,3,Unknown,3
+Sanvis Kowsalya Manidweepam,Apartment,Bachupally Hyderabad,13700000.000000002,7789.0,CARPET AREA,1513.0,3,Unknown,3
+Aparna Newlands,Apartment,"Tellapur, Outer Ring Road Hyderabad",13899999.999999998,9424.0,SUPER AREA,1475.0,3,Unknown,3
+1580 sqft,Apartment,Masab Tank Hyderabad,16500000.0,10443.0,SUPER AREA,1580.0,3,Semi-Furnished,3
+1100 sqft,Apartment,Kondapur Hyderabad,13000000.0,9701.0,CARPET AREA,1100.0,2,Semi-Furnished,2
+Maruthi Ecopolitan,Apartment,Nagole Hyderabad,16000000.0,8000.0,CARPET AREA,2000.0,3,Furnished,3
+Speed Sanarelli,Apartment,"Dundigal, Outer Ring Road Hyderabad",6000000.0,5000.0,CARPET AREA,1050.0,2,Unknown,2
+1000 sqft,Apartment,Rajendranagar Mandal Hyderabad,7870000.0,6299.0,CARPET AREA,1000.0,2,Unknown,2
+3900 sqft,Apartment,"Banjara Hills, NH 9 Hyderabad",40000000.0,10000.0,CARPET AREA,3900.0,4,Unknown,4
+Sigma Sarovar,Apartment,Ramachandrapuram Hyderabad,5500000.0,5046.0,CARPET AREA,1040.0,2,Unknown,2
+1900 sqft,Apartment,Madhura Nagar Hyderabad,21500000.0,11000.0,CARPET AREA,1900.0,3,Unfurnished,3
+Greenmark Mayfair Apartments,Apartment,"Tellapur, Outer Ring Road Hyderabad",18700000.0,9000.0,CARPET AREA,1900.0,3,Unknown,3
+1950 sqft,Apartment,Nalagandla Hyderabad,14000000.0,7200.0,SUPER AREA,1950.0,3,Unfurnished,3
+Lansum EL Dorado,Apartment,"Kokapet, Outer Ring Road Hyderabad",26000000.0,11927.0,CARPET AREA,2180.0,3,Unknown,3
+SUMADHURA The Olympus,Apartment,Nanakaramguda Hyderabad,33500000.0,11632.0,CARPET AREA,2880.0,3,Unknown,3
+2000 sqft,Apartment,"Deepthisri Nagar, NH 9 Hyderabad",12400000.0,6200.0,CARPET AREA,2000.0,3,Unknown,3
+Jayabheri Silicon Towers,Apartment,Surya Enclave Kothaguda Hyderabad,32000000.0,11852.0,CARPET AREA,2025.0,4,Unknown,4
+THE CASCADES NEOPOLIS,Apartment,Neopolis Hyderabad,31800000.0,12000.0,CARPET AREA,1900.0,3,Unknown,3
+1610 sqft,Apartment,"Miyapur, NH 9 Hyderabad",14500000.0,9006.0,SUPER AREA,1610.0,3,Unknown,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,24000000.0,13151.0,SUPER AREA,1825.0,3,Unknown,3
+Nebula Aavaas,Apartment,"Miyapur, NH 9 Hyderabad",7800000.0,6425.0,SUPER AREA,1214.0,2,Unknown,2
+NCC Urban One,Apartment,"Narsingi, Outer Ring Road Hyderabad",17000000.0,11075.0,SUPER AREA,1535.0,3,Unknown,3
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",22000000.0,11423.0,CARPET AREA,1850.0,3,Unknown,3
+920 sqft,Apartment,"Kollur, Outer Ring Road Hyderabad",7940000.000000001,6617.0,CARPET AREA,920.0,2,Unknown,2
+Prestige Clairemont,Apartment,"Kokapet, Outer Ring Road Hyderabad",36000000.0,12228.0,SUPER AREA,2944.0,3,Unknown,3
+Vasavi Sarovar,Apartment,"Moosapet, NH 9 Hyderabad",987500000.0,500000.0,SUPER AREA,1975.0,3,Unfurnished,3
+EIPL CORNERSTONE,Apartment,Puppalguda Hyderabad,18200000.0,8850.0,CARPET AREA,1980.0,3,Unknown,3
+Vertex Panache,Apartment,"Kokapet, Outer Ring Road Hyderabad",13000000.0,10236.0,SUPER AREA,1270.0,2,Unknown,2
+1050 sqft,Apartment,Shanthi Nagar Patancheruvu Hyderabad,5800000.0,5039.0,CARPET AREA,1050.0,2,Unfurnished,2
+Bhanodayas Crystal,Apartment,Gundlapochampalli Hyderabad,8180000.0,6200.0,CARPET AREA,990.0,2,Unknown,2
+3600 sqft,Apartment,"Sanjeeva Reddy Nagar, NH 9 Hyderabad",40000000.0,11111.0,SUPER AREA,3600.0,4,Unknown,4
+Urbanrise On Cloud 33,Apartment,Bachupally Hyderabad,12500000.0,9239.0,CARPET AREA,865.0,3,Unknown,3
+880 sqft,Apartment,Income Tax Colony Kothapet Hyderabad,5800000.0,5686.0,CARPET AREA,880.0,2,Semi-Furnished,2
+Sri Sai Harihara Soukya,Apartment,"Peerzadiguda, NH 2 2 Hyderabad",10000000.0,7364.0,CARPET AREA,1150.0,2,Semi-Furnished,2
+Emami Swanlake,Apartment,"Kukatpally, NH 9 Hyderabad",14000000.0,9038.0,CARPET AREA,1350.0,3,Unknown,3
+Aashvi Urban Habitat,Apartment,Nagole Hyderabad,12500000.0,6793.0,SUPER AREA,1840.0,3,Unknown,3
+1922 sqft,Apartment,OU Colony Shaikpet Hyderabad,15500000.0,8065.0,SUPER AREA,1922.0,3,Unknown,3
+Auro Kohinoor Phase Iii,Apartment,Hitech City Hyderabad,28500000.0,14623.0,CARPET AREA,1285.0,3,Unknown,3
+2191 sqft,Apartment,"Tellapur, Outer Ring Road Hyderabad",20000000.0,9128.0,SUPER AREA,2191.0,3,Unfurnished,3
+Candeur Lakescape,Apartment,Kondapur Hyderabad,23900000.0,9892.0,SUPER AREA,2416.0,4,Unfurnished,3
+Qualitas Nestilo,Apartment,Osman Nagar Hyderabad,9200000.0,8070.0,SUPER AREA,1140.0,2,Unknown,2
+Honer Vivantis,Apartment,Gopanpally Hyderabad,13600000.000000002,10000.0,CARPET AREA,950.0,2,Semi-Furnished,2
+Vedamsa Maa Srinivasam,Apartment,"Isnapur, Outer Ring Road Hyderabad",6450000.0,4257.0,CARPET AREA,1250.0,3,Unknown,3
+Skymarq By DSR,Apartment,Puppalguda Hyderabad,59900000.0,11982.0,SUPER AREA,4999.0,4,Unknown,4
+1300 sqft,Apartment,"Tukkuguda, Srisailam Highway Hyderabad",8000000.0,5000.0,CARPET AREA,1300.0,3,Unknown,3
+Puppalaguda Market,Apartment,Manikonda Jagir Hyderabad,9300000.0,7440.0,CARPET AREA,1000.0,2,Semi-Furnished,2
+Ramky One Galaxia,Apartment,HUDA Layout Nalagandla Hyderabad,12700000.0,10079.0,CARPET AREA,1050.0,2,Unknown,2
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road Hyderabad",29000000.0,12420.0,SUPER AREA,2335.0,3,Unknown,3
+Aditi Vani Towers,Apartment,"Bowrampet, Outer Ring Road Hyderabad",9050000.0,5692.0,CARPET AREA,1400.0,3,Unfurnished,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,19900000.0,12795.0,CARPET AREA,1200.0,3,Unknown,3
+Honer Aquantis,Apartment,Gopanpalle Hyderabad,19200000.0,11294.0,SUPER AREA,1700.0,3,Unknown,3
+Infocity Premlatha Grandeur,Apartment,"Annojiguda, NH 2 2 Hyderabad",8000000.0,6216.0,SUPER AREA,1287.0,2,Unknown,2
+Aparna Newlands,Apartment,"Tellapur, Outer Ring Road Hyderabad",13500000.0,9153.0,SUPER AREA,1475.0,3,Unknown,3
+Aparna Zenon,Apartment,Alkapoor Hyderabad,16800000.0,12528.0,CARPET AREA,890.0,2,Unknown,2
+W By DSR,Apartment,Kondapur Hyderabad,68700000.0,11452.0,SUPER AREA,5999.0,4,Unfurnished,4
+Hallmark Skyrena,Apartment,"Narsingi, Outer Ring Road Hyderabad",19000000.0,9819.0,CARPET AREA,1450.0,3,Unknown,3
+Cybercity Oriana,Apartment,"Moosapet, NH 9 Hyderabad",26500000.0,11134.0,SUPER AREA,2380.0,4,Semi-Furnished,3
+Vasavi Metropolis,Apartment,"Uppal, NH 2 2 Hyderabad",17000000.0,8745.0,CARPET AREA,1945.0,3,Unknown,3
+Krishnaveni Emerald,Apartment,Sainikpuri Hyderabad,6800000.0,5619.834710743801,CARPET AREA,1210.0,2,Unknown,2
+Bhavyas Tulasivanam Avani,Apartment,"Kukatpally, NH 9 Hyderabad",14000000.0,8429.0,SUPER AREA,1661.0,3,Unknown,3
+EKAM by Prosperiti Homes,Apartment,"Kollur, Outer Ring Road Hyderabad",13500000.0,8182.0,CARPET AREA,1205.0,3,Unknown,3
+Ramky One Odyssey,Apartment,"Kokapet, Outer Ring Road Hyderabad",39500000.0,13079.0,SUPER AREA,3020.0,4,Unknown,4
+900 sqft,Apartment,venkatesh Neat Hyderabad,5200000.0,5778.0,SUPER AREA,900.0,2,Unknown,2
+1476 sqft,Apartment,Prashanthi Hills Hyderabad,17500000.0,9485.0,CARPET AREA,1476.0,3,Unknown,3
+1100 sqft,Apartment,Gachibowli Hyderabad,8900000.0,7417.0,CARPET AREA,1100.0,2,Unknown,2
+BBCS Bipin Arcade,Apartment,Nizampet Hyderabad,5700000.0,4948.0,CARPET AREA,992.0,2,Unknown,2
+Ramky One Symphony,Apartment,Patancheruvu Hyderabad,9730000.0,5300.0,SUPER AREA,1835.0,3,Unknown,3
+Supadha Gamya,Apartment,"Tellapur, Outer Ring Road Hyderabad",30000000.0,7782.0,SUPER AREA,3855.0,4,Unknown,4
+SMR Vinay Fountainhead,Apartment,Miyapur Main Road Hyderabad,13000000.0,9319.0,CARPET AREA,1395.0,2,Furnished,2
+1981 sqft,Apartment,Osman Nagar Hyderabad,19000000.0,9591.0,CARPET AREA,1981.0,3,Unknown,3
+1535 sqft,Apartment,Narepally Hyderabad,8440000.0,5500.0,CARPET AREA,1535.0,3,Unknown,3
+Team4 Arka,Apartment,Manikonda Jagir Hyderabad,24400000.0,9513.0,CARPET AREA,1877.0,3,Unknown,3
+Primark Econest,Apartment,"Gundlapochampally, Outer Ring Road Hyderabad",11500000.0,6216.0,SUPER AREA,1850.0,3,Unknown,3
+2450 sqft,Apartment,"P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road Hyderabad",35000000.0,12069.0,CARPET AREA,2450.0,3,Unknown,3
+A2A Homeland,Apartment,Kukatpally Balanagar Hyderabad,15000000.0,8824.0,SUPER AREA,1700.0,3,Unknown,3
+780 sqft,Apartment,"Erragadda, NH 9 Hyderabad",8500000.0,10000.0,CARPET AREA,780.0,2,Unknown,2
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,31000000.0,13362.0,SUPER AREA,2320.0,3,Unknown,3
+2600 sqft,Apartment,"Malaysian Township, Kukatpally Hyderabad",42000000.0,12727.0,CARPET AREA,2600.0,4,Unknown,4
+Gauthami Iconia,Apartment,Gachibowli Hyderabad,26000000.0,12745.0,CARPET AREA,2000.0,3,Unknown,3
+Bhavyas Tulasivanam,Apartment,"Kukatpally, NH 9 Hyderabad",8800000.0,7753.0,CARPET AREA,900.0,2,Unknown,2
+2100 sqft,Apartment,Brahman Wadi Begumpet Hyderabad,19500000.0,9286.0,CARPET AREA,2100.0,3,Unknown,3
+ADITYAS EDENPARK,Apartment,Nalagandla Hyderabad,16000000.0,7064.0,CARPET AREA,2100.0,3,Unknown,3
+Sahasram The Ananda,Apartment,"Pocharam, NH 2 2 Hyderabad",8500000.0,6259.0,SUPER AREA,1358.0,2,Unfurnished,2
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",18000000.0,10465.0,CARPET AREA,1600.0,3,Unknown,3
+Accurate Wind Chimes,Apartment,"Narsingi, Outer Ring Road Hyderabad",19000000.0,11176.0,CARPET AREA,1600.0,3,Unknown,3
+EIPL Apila,Apartment,Gandipet Hyderabad,31000000.0,11810.0,CARPET AREA,2605.0,3,Unknown,3
+Candeur Twins,Apartment,"Miyapur, NH 9 Hyderabad",19000000.0,9223.0,SUPER AREA,2060.0,3,Unknown,3
+5216 sqft,Apartment,film nagar shaikpet Hyderabad,94000000.0,18021.0,SUPER AREA,5216.0,4,Unknown,4
+Aparna Zenon,Apartment,Puppalguda Hyderabad,17000000.0,12821.0,CARPET AREA,855.0,2,Unknown,2
+The Prestige City,Apartment,Rajendranagar Mandal Hyderabad,45000000.0,13405.0,SUPER AREA,3357.0,4,Unknown,4
+2710 sqft,Apartment,Defence Colony Sainikpuri Hyderabad,17500000.0,6458.0,SUPER AREA,2710.0,3,Unfurnished,3
+Salarpuria Sattva Necklace Pride,Apartment,"Kavadiguda, NH 7 Hyderabad",61000000.0,16258.0,CARPET AREA,3552.0,4,Unknown,4
+Anvita Ivana,Apartment,"Kollur, Outer Ring Road Hyderabad",10200000.0,8135.0,SUPER AREA,1260.0,2,Unknown,2
+Jyothi Splendour,Apartment,"Banjara Hills, NH 9 Hyderabad",19000000.0,8261.0,CARPET AREA,1950.0,3,Semi-Furnished,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,17000000.0,12821.0,SUPER AREA,1326.0,2,Unfurnished,2
+Serenity,Apartment,Bandlaguda Jagir Hyderabad,8500000.0,5356.0,SUPER AREA,1587.0,3,Unknown,3
+Babukhan Solitaire,Apartment,Gachibowli Hyderabad,18000000.0,9688.0,CARPET AREA,1500.0,3,Unknown,3
+950 sqft,Apartment,"Quthbullapur, NH 7 Hyderabad",5500000.0,4583.0,CARPET AREA,950.0,2,Unknown,2
+Aurobindo Kohinoor,Apartment,Izzathnagar Hyderabad,35000000.0,15371.0,SUPER AREA,2277.0,3,Unknown,3
+1200 sqft,Apartment,"Narsingi, Outer Ring Road Hyderabad",17500000.0,10574.0,CARPET AREA,1200.0,3,Unknown,3
+1000 sqft,Apartment,"SR Naik Nagar, Suraram Hyderabad",7500000.0,6818.0,CARPET AREA,1000.0,2,Unknown,2
+Anuhar Nature Walk,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",16000000.0,9384.0,CARPET AREA,1600.0,3,Unknown,3
+1114 sqft,Apartment,Nizampet Road Hyderabad,9900000.0,6667.0,CARPET AREA,1114.0,3,Unknown,3
+Sree Laxmi Gardenia,Apartment,Patancheruvu Hyderabad,5980000.0,5339.0,CARPET AREA,980.0,2,Unknown,2
+Ramky One Symphony,Apartment,"Muthangi, NH 9 Hyderabad",11100000.000000002,7003.0,SUPER AREA,1585.0,3,Unknown,3
+Vaishnavi Premidies Apartment,Apartment,Hitech City Hyderabad,19800000.0,8454.0,SUPER AREA,2342.0,3,Furnished,3
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",17500000.0,10174.0,SUPER AREA,1720.0,3,Unknown,3
+Padmaja Paradise,Apartment,Sri Nagar Colony Hyderabad,22000000.0,9778.0,CARPET AREA,2200.0,3,Unknown,3
+My Home Bhooja,Apartment,Silpa Gram Craft Village Hyderabad,80000000.0,23324.0,CARPET AREA,3430.0,3,Unknown,3
+1140 sqft,Apartment,"Mallampet, Outer Ring Road Hyderabad",6600000.0,5500.0,CARPET AREA,1140.0,2,Unknown,2
+EIPL CORNERSTONE,Apartment,Manikonda Jagir Hyderabad,27900000.0,11872.0,CARPET AREA,1800.0,3,Unknown,3
+Sukhii Ubuntu,Apartment,Puppalguda Hyderabad,20300000.0,10667.0,SUPER AREA,1905.0,3,Unknown,3
+Aparna Luxor Park,Apartment,Kondapur Hyderabad,42500000.0,14991.0,SUPER AREA,2835.0,3,Unknown,3
+850 sqft,Apartment,Old Alwal Hyderabad,6500000.0,5594.0,CARPET AREA,850.0,2,Furnished,2
+1276 sqft,Apartment,Alwal Hyderabad,6500000.0,5094.0,CARPET AREA,1276.0,2,Unknown,2
+Alpine Towers,Apartment,"Kavadiguda, NH 7 Hyderabad",25000000.0,8621.0,CARPET AREA,2800.0,3,Unknown,3
+2850 sqft,Apartment,"Uppal, NH 2 2 Hyderabad",17000000.0,5965.0,SUPER AREA,2850.0,3,Unknown,3
+ASBL Lakeside,Apartment,Manikonda Jagir Hyderabad,20500000.0,11166.0,SUPER AREA,1836.0,3,Unknown,3
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,14500000.0,9434.0,SUPER AREA,1537.0,2,Unknown,2
+3700 sqft,Apartment,Film Nagar Hyderabad,58900000.0,15500.0,CARPET AREA,3700.0,3,Unknown,3
+NRR Avani,Apartment,"Sun City, Bandlaguda, Chevella Road Hyderabad",18200000.0,7049.0,CARPET AREA,2200.0,3,Unknown,3
+BSCPL Bollineni Bion,Apartment,Kondapur Hyderabad,15500000.0,12016.0,SUPER AREA,1290.0,2,Unknown,2
+1330 sqft,Apartment,"Tukkuguda, Srisailam Highway Hyderabad",10300000.0,5464.0,CARPET AREA,1330.0,3,Unknown,3
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,28000000.0,13930.0,CARPET AREA,1411.0,3,Unknown,3
+Giridhari Happiness Hub,Apartment,"Kismatpur, Outer Ring Road Hyderabad",10800000.0,6746.0,CARPET AREA,1255.0,3,Unknown,3
+Aathrav Abode,Apartment,"Bongloor, Outer Ring Road Hyderabad",13200000.0,5077.0,SUPER AREA,2600.0,3,Unfurnished,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,23000000.0,12603.0,CARPET AREA,1212.0,3,Unknown,3
+1700 sqft,Apartment,Kondapur Hyderabad,13000000.0,7647.058823529412,CARPET AREA,1700.0,3,Semi-Furnished,3
+Prajay Water Front,Apartment,Shamirpet Hyderabad,2400000.0,3357.0,SUPER AREA,715.0,2,Unfurnished,1
+Gayathree Apartments,Apartment,Jeedimetla Hyderabad,5000000.0,5263.0,SUPER AREA,950.0,2,Furnished,2
+Aditya Empress Towers,Apartment,Shaikpet Hyderabad,15800000.0,9294.0,SUPER AREA,1700.0,3,Unknown,3
+Koduru Mansion,Apartment,Gachibowli Hyderabad,12600000.0,8500.0,CARPET AREA,1200.0,3,Semi-Furnished,3
+920 sqft,Apartment,"Boduppal, NH 2 2 Hyderabad",5670000.0,5399.0,CARPET AREA,920.0,2,Unknown,2
+922 sqft,Apartment,Manikonda Jagir Hyderabad,10000000.0,10846.0,CARPET AREA,922.0,2,Semi-Furnished,2
+Baladhama S Marvel,Apartment,Ameenpur Hyderabad,5600000.0,5283.0,SUPER AREA,1060.0,2,Unfurnished,2
+Malaysian Township,Apartment,"Kukatpally, NH 9 Hyderabad",18000000.0,11834.0,CARPET AREA,1400.0,3,Unknown,3
+730 sqft,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",9200000.0,8638.0,CARPET AREA,730.0,2,Unknown,2
+Aakriti Honey dew,Apartment,"Tellapur, Outer Ring Road Hyderabad",18200000.0,9681.0,CARPET AREA,1598.0,3,Unknown,3
+Sree Manasvi Heights,Apartment,Ramakrishna Nagar Madeenaguda Hyderabad,11500000.0,7419.0,CARPET AREA,1300.0,3,Unknown,3
+Vertex Viraat,Apartment,"Miyapur, NH 9 Hyderabad",17000000.0,9798.0,SUPER AREA,1735.0,3,Unknown,3
+PVR Fairview,Apartment,"Kismatpur, Outer Ring Road Hyderabad",6300000.0,6207.0,SUPER AREA,1015.0,2,Semi-Furnished,2
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",17200000.0,10935.0,CARPET AREA,1500.0,3,Unknown,3
+1366 sqft,Apartment,Vasanth Nagar Colony Nizampet Hyderabad,9900000.0,6790.0,CARPET AREA,1366.0,3,Unknown,3
+Uppal Bhagayat,Apartment,"Uppal, NH 2 2 Hyderabad",15000000.0,8824.0,CARPET AREA,1550.0,3,Semi-Furnished,3
+Metro Heights,Apartment,Nagole Hyderabad,7000000.0,5912.0,CARPET AREA,1184.0,2,Unknown,2
+Essjay Fortune,Apartment,Begumpet Hyderabad,14000000.0,11382.0,CARPET AREA,1100.0,2,Unknown,2
+Ravindra Society,Apartment,Jubilee Hills Hyderabad,32500000.0,13000.0,CARPET AREA,2400.0,3,Unknown,3
+Padmanabha Residency,Apartment,"Walker Town, Padmarao Nagar Hyderabad",11600000.0,9500.0,SUPER AREA,1221.0,2,Unknown,2
+Sai Krupa Annex,Apartment,Kalyan Nagar Moti Nagar Hyderabad,7500000.0,7440.0,CARPET AREA,915.0,2,Unknown,2
+1100 sqft,Apartment,Ammuguda Hyderabad,8100000.0,6923.0,CARPET AREA,1100.0,2,Unknown,2
+Candeur Twins,Apartment,Janapriya Nagar Miyapur Hyderabad,14700000.0,8709.0,CARPET AREA,1308.0,3,Unknown,3
+Aparna Altius,Apartment,Satamrai Hyderabad,14500000.0,7900.0,CARPET AREA,1184.0,3,Unknown,3
+Lanco Hills,Apartment,Khajaguda Hyderabad,30000000.0,9496.67616334283,CARPET AREA,3159.0,4,Unknown,4
+Lodha Meridian,Apartment,"Kukatpally Housing Board Colony, NH 9 Hyderabad",27000000.0,14218.0,SUPER AREA,1899.0,3,Unknown,3
+Janapriya Arcadia,Apartment,Kowkoor Hyderabad,8500000.0,5667.0,CARPET AREA,1100.0,3,Unfurnished,3
+Sumadhura Infracon The Olympus,Apartment,"Financial District, Nanakram Guda Hyderabad",37000000.0,12847.0,CARPET AREA,2045.0,4,Unknown,4
+1216 sqft,Apartment,Phase 4 KPHB Hyderabad,17000000.0,13980.0,CARPET AREA,1216.0,2,Unknown,2
+Rajapushpa Pristinia,Apartment,"Kokapet, Outer Ring Road Hyderabad",14500000.0,10507.0,CARPET AREA,871.0,2,Unknown,2
+My Home Jewel,Apartment,"Miyapur, NH 9 Hyderabad",20000000.0,11869.0,SUPER AREA,1685.0,3,Unknown,3
+Jayabheri The Sahasra,Apartment,Gachibowli Hyderabad,28000000.0,11715.0,CARPET AREA,1440.0,3,Unfurnished,3
+Vema Kamala Towers,Apartment,Begumpet Hyderabad,8800000.0,6377.0,SUPER AREA,1380.0,3,Unfurnished,3
+Gothic Pentagon Clouds,Apartment,Bachupally Hyderabad,16800000.0,8528.0,CARPET AREA,1214.0,3,Unknown,3
+Subishis Polam,Apartment,Kompally Hyderabad,23000000.0,7931.0,SUPER AREA,2900.0,3,Unfurnished,3
+Venkatadri Vajras Abode,Apartment,Sangeet Nagar Kukatpally Hyderabad,15000000.0,8798.0,CARPET AREA,1491.0,3,Unknown,3
+Pragathi Residency Kukatpally,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",7500000.0,5976.0,CARPET AREA,1080.0,2,Unfurnished,2
+ASBL Loft,Apartment,Puppalguda Hyderabad,24300000.0,13000.0,SUPER AREA,1870.0,3,Unknown,3
+976 sqft,Apartment,Gajularamaram Hyderabad,5500000.0,4787.0,CARPET AREA,976.0,3,Unknown,3
+Sahabhavana,Apartment,Nagole Hyderabad,5000000.0,6266.0,SUPER AREA,798.0,2,Furnished,2
+460 sqft,Apartment,Nagaram Hyderabad,1800000.0,3913.0,SUPER AREA,460.0,1,Semi-Furnished,1
+Ramky One Symphony,Apartment,"Muthangi, NH 9 Hyderabad",13200000.0,8328.0,CARPET AREA,1023.0,3,Unknown,3
+7000 sqft,Apartment,Puppalguda Hyderabad,160000000.0,18935.0,CARPET AREA,7000.0,5,Unknown,5
+Sri Sri Gruhanirman Aero City,Apartment,"Bongloor, Outer Ring Road Hyderabad",3500000.0,4930.0,SUPER AREA,710.0,1,Unknown,2
+Ramky One Genext Towers,Apartment,"Uppal, NH 2 2 Hyderabad",17500000.0,11628.0,SUPER AREA,1505.0,3,Unknown,3
+Team 4 Nyla,Apartment,"Miyapur, NH 9 Hyderabad",17100000.0,9099.0,SUPER AREA,1880.0,3,Unknown,3
+Maruthi Apartments,Apartment,Old Bowenpally Hyderabad,5000000.0,4545.0,CARPET AREA,965.0,2,Unknown,2
+RDB Harmony,Apartment,Lingampally Hyderabad,15800000.0,8807.0,SUPER AREA,1794.0,3,Unknown,3
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,15200000.0,9870.0,CARPET AREA,1220.0,3,Unknown,3
+Ramky One Galaxia,Apartment,Nalagandla Hyderabad,18000000.0,10619.0,CARPET AREA,1600.0,3,Unknown,3
+2500 sqft,Apartment,Cherlapalli Hyderabad,16000000.0,6123.0,CARPET AREA,2500.0,4,Unknown,4
+1350 sqft,Apartment,Bachupalle Hyderabad,6980000.0,4500.0,CARPET AREA,1350.0,3,Unfurnished,3
+Bhuvanas Urban Greens,Apartment,Gundlapochampalli Hyderabad,4600000.0,4510.0,CARPET AREA,875.0,2,Unknown,2
+Cybercity Rainbow Vistas,Apartment,Hitech City Hyderabad,11000000.0,9167.0,SUPER AREA,1200.0,2,Unknown,2
+SMR Vinay Iconia,Apartment,Kondapur Hyderabad,39100000.0,13368.0,SUPER AREA,2925.0,4,Unknown,4
+My Home Raka,Apartment,Serilingampalle M Hyderabad,28500000.0,12701.0,CARPET AREA,2244.0,3,Unknown,3
+Skymarq By DSR,Apartment,Puppalguda Hyderabad,58300000.0,10700.0,SUPER AREA,5454.0,4,Unknown,4
+Sri Chandeeshwara Unique Residency,Apartment,Puppalguda Hyderabad,11500000.0,5990.0,SUPER AREA,1920.0,3,Semi-Furnished,3
+Suchirindia The Tales of Greek,Apartment,Shamshabad Hyderabad,8200000.0,8677.0,SUPER AREA,945.0,2,Unknown,2
+1000 sqft,Apartment,Kavuri Hills Madhapur Hyderabad,6500000.0,6842.0,CARPET AREA,1000.0,2,Semi-Furnished,2
+Candeur Skyline,Apartment,Puppalguda Hyderabad,94500000.0,12608.0,CARPET AREA,7495.0,5,Unknown,5
+Aparna CyberHeights,Apartment,Osman Nagar Hyderabad,20000000.0,10096.0,CARPET AREA,1350.0,3,Unfurnished,3
+Babukhan Hillview,Apartment,MLA Colony Banjara Hills Hyderabad,31500000.0,12779.0,CARPET AREA,2050.0,3,Unknown,3
+Rainbow Vistas at Rock Garden,Apartment,Hitech City Hyderabad,22000000.0,10185.0,CARPET AREA,1842.0,3,Unknown,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,23100000.0,12630.0,CARPET AREA,1800.0,3,Unknown,3
+1421 sqft,Apartment,Bachupally Hyderabad,13500000.0,8438.0,CARPET AREA,1421.0,3,Unknown,3
+1120 sqft,Apartment,"Chikoti Gardens, Begumpet Hyderabad",6000000.0,5217.0,CARPET AREA,1120.0,2,Unknown,2
+PJR Enclave,Apartment,"Miyapur, NH 9 Hyderabad",8300000.0,7124.0,CARPET AREA,992.0,2,Unknown,2
+Trendset Jayabheri Elevate,Apartment,Kondapur Hyderabad,39000000.0,16774.0,CARPET AREA,2200.0,3,Unknown,3
+Sumadhuras Gardens By The Brook,Apartment,Shamshabad Hyderabad,12500000.0,7440.0,CARPET AREA,1169.0,3,Unknown,3
+Ramky One Odyssey,Apartment,"Kokapet, Outer Ring Road Hyderabad",19500000.0,11143.0,CARPET AREA,1700.0,3,Unknown,3
+950 sqft,Apartment,"LB Nagar, NH 9 Hyderabad",7000000.0,7000.0,CARPET AREA,950.0,2,Unknown,2
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,13500000.0,10128.0,CARPET AREA,1042.0,2,Unknown,2
+Sukhii Ubuntu,Apartment,Puppalguda Hyderabad,14700000.0,11179.0,CARPET AREA,890.0,2,Unknown,2
+Sapphire Apartments,Apartment,"Chikoti Gardens, Begumpet Hyderabad",21000000.0,11135.0,CARPET AREA,1850.0,3,Unknown,3
+800 sqft,Apartment,Mangapuram Colony Moula Ali Hyderabad,4200000.0,5250.0,SUPER AREA,800.0,2,Unknown,2
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,22300000.0,8687.0,SUPER AREA,2567.0,3,Unknown,3
+Aparna Kanopy Marigold,Apartment,Kompally Hyderabad,9800000.0,7597.0,CARPET AREA,1250.0,2,Unknown,2
+1200 sqft,Apartment,Saleem Nagar Colony Hyderabad,8500000.0,6688.0,CARPET AREA,1200.0,2,Unknown,2
+Koncept Ambience Courtyard,Apartment,Manikonda Jagir Hyderabad,21500000.0,12647.0,CARPET AREA,1600.0,3,Unknown,3
+Barkatpura,Apartment,"Barkatpura, Kachiguda, NH 2 2 Hyderabad",9000000.0,7614.0,CARPET AREA,900.0,2,Unknown,2
+970 sqft,Apartment,Ameerpet Hyderabad,6000000.0,6000.0,CARPET AREA,970.0,2,Unknown,2
+808 sqft,Apartment,Kuntloor Hyderabad,4600000.0,4340.0,CARPET AREA,808.0,2,Unknown,2
+Vasavi Skyla,Apartment,Hitech City Hyderabad,27000000.0,11894.0,SUPER AREA,2270.0,3,Unknown,3
+1510 sqft,Apartment,Bhanur Hyderabad,6200000.0,4106.0,SUPER AREA,1510.0,3,Unknown,3
+Rainbow Vistas at Rock Garden,Apartment,Hitech City Hyderabad,11500000.0,9200.0,CARPET AREA,1250.0,2,Furnished,2
+Aditya Empress Towers,Apartment,Shaikpet Hyderabad,16000000.0,9412.0,SUPER AREA,1700.0,3,Unknown,3
+Sri Sai Paradise Pragathi Nagar,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",8910000.0,5500.0,CARPET AREA,1500.0,3,Unknown,3
+Ananda The Drizzle,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",11600000.0,8500.0,CARPET AREA,1000.0,2,Unknown,2
+Ramky Towers,Apartment,Gachibowli Hyderabad,26000000.0,10994.0,SUPER AREA,2365.0,3,Semi-Furnished,3
+SAS Crown,Apartment,"Kokapet, Outer Ring Road Hyderabad",115000000.0,13052.0,CARPET AREA,7400.0,5,Unknown,5
+Vyjayanth Chalets,Apartment,Gachibowli Hyderabad,35000000.0,12069.0,SUPER AREA,2900.0,3,Furnished,3
+Altitudes By DSR,Apartment,Osman Nagar Hyderabad,16900000.0,7422.0,SUPER AREA,2277.0,3,Unfurnished,3
+Aditya Athena,Apartment,Shaikpet Hyderabad,27300000.0,15918.0,SUPER AREA,1715.0,3,Unknown,3
+Team 4 Nyla,Apartment,"Miyapur, NH 9 Hyderabad",10400000.0,8202.0,CARPET AREA,1200.0,2,Unknown,2
+Gardenia Towers,Apartment,Subhash Nagar Jeedimetla Hyderabad,12500000.0,5787.0,CARPET AREA,2100.0,3,Unknown,3
+Fortune Suraj Bhan Grande by SSI,Apartment,"Kokapet, Outer Ring Road Hyderabad",28500000.0,10000.0,SUPER AREA,2850.0,4,Unknown,4
+Cybercity Westbrook,Apartment,"Kokapet, Outer Ring Road Hyderabad",19500000.0,11272.0,SUPER AREA,1730.0,3,Unknown,3
+Prestige Clairemont,Apartment,"Kokapet, Outer Ring Road Hyderabad",36000000.0,13284.0,CARPET AREA,1721.0,3,Unfurnished,3
+Anuhar Rami Reddy Towers,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",14000000.0,10138.0,SUPER AREA,1381.0,2,Semi-Furnished,2
+Aditya Empress Towers,Apartment,Shaikpet Hyderabad,18500000.0,8810.0,SUPER AREA,2100.0,3,Unknown,3
+Sahasra Avenue,Apartment,Kharmanghat Hyderabad,6200000.0,4586.0,CARPET AREA,1300.0,2,Unknown,2
+Auro The Regent,Apartment,Kondapur Hyderabad,17900000.0,11293.0,CARPET AREA,1321.0,3,Unknown,3
+SVNR THE BREEZE,Apartment,"Manchirevula, Outer Ring Road Hyderabad",9400000.0,6569.0,CARPET AREA,1140.0,3,Unknown,3
+700 sqft,Apartment,Ameenpur Road Hyderabad,8600000.0,8277.0,CARPET AREA,700.0,3,Unknown,3
+Jain Fairmount The ARC,Apartment,"Gandi Maisamma, Outer Ring Road Hyderabad",10200000.0,5699.0,CARPET AREA,1440.0,3,Unknown,3
+Avantikas Espino,Apartment,Ameenpur Hyderabad,8400000.0,6731.0,SUPER AREA,1248.0,2,Unknown,2
+1150 sqft,Apartment,Manikonda Jagir Hyderabad,8159999.999999999,6800.0,CARPET AREA,1150.0,2,Unfurnished,2
+Gangothri Nakshatra,Apartment,Manikonda Jagir Hyderabad,14500000.0,8761.0,CARPET AREA,1600.0,3,Unknown,3
+Ace Amura,Apartment,"Pocharam, NH 2 2 Hyderabad",4085000000.0,4300001.0,SUPER AREA,950.0,2,Unknown,2
+Lansum Elena,Apartment,Power Welfare Society Hyderabad,39500000.0,12117.0,SUPER AREA,3260.0,4,Unknown,4
+Supadha Gamya,Apartment,"Tellapur, Outer Ring Road Hyderabad",28200000.0,11640.0,CARPET AREA,1430.0,4,Unknown,4
+My Home Nishada,Apartment,"Kokapet, Outer Ring Road Hyderabad",62000000.0,15438.0,SUPER AREA,4016.0,4,Unfurnished,4
+1690 sqft,Apartment,Kowkoor Hyderabad,12000000.0,7101.0,CARPET AREA,1690.0,3,Unknown,3
+3900 sqft,Apartment,Jubilee Hills Hyderabad,45000000.0,11250.0,CARPET AREA,3900.0,3,Unknown,3
+Trendset Allure,Apartment,"Narsingi, Outer Ring Road Hyderabad",38500000.0,10694.444444444445,CARPET AREA,3600.0,4,Unknown,4
+Urbanrise On Cloud 33,Apartment,"Bollaram, Outer Ring Road Hyderabad",20400000.0,10137.0,SUPER AREA,2021.0,4,Unknown,4
+1425 sqft,Apartment,Kakatiya Hills Kavuri Hills Hyderabad,12900000.0,9053.0,SUPER AREA,1425.0,3,Unknown,3
+1784 sqft,Apartment,"Kokapet, Outer Ring Road Hyderabad",16800000.0,9417.0,SUPER AREA,1784.0,3,Unknown,3
+Pranathi Kiara,Apartment,"Tellapur, Outer Ring Road Hyderabad",16500000.0,8616.0,CARPET AREA,1500.0,3,Unknown,3
+My Home Mangala,Apartment,Kondapur Hyderabad,17600000.0,13570.0,SUPER AREA,1297.0,2,Unknown,2
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road Hyderabad",16800000.0,12444.0,SUPER AREA,1350.0,2,Unknown,2
+1550 sqft,Apartment,Kompally Hyderabad,7440000.000000001,4800.0,SUPER AREA,1550.0,3,Unfurnished,3
+Aliens Space Station,Apartment,"Tellapur, Outer Ring Road Hyderabad",14500000.0,8667.0,SUPER AREA,1673.0,3,Unknown,3
+Vasavi Atlantis,Apartment,"Narsingi, Outer Ring Road Hyderabad",24000000.0,9412.0,SUPER AREA,2550.0,3,Unfurnished,4
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",21000000.0,10903.0,SUPER AREA,1926.0,3,Unknown,3
+1250 sqft,Apartment,Suchitra Hyderabad,6750000.0,4999.0,CARPET AREA,1250.0,2,Unknown,2
+Krishna Elite,Apartment,"Banjara Hills, NH 9 Hyderabad",23500000.0,12500.0,CARPET AREA,1887.0,3,Unknown,3
+925 sqft,Apartment,Tarnaka Hyderabad,4500000.0,4865.0,SUPER AREA,925.0,2,Semi-Furnished,2
+Trendset Ville,Apartment,Venkat Nagar Banjara Hills Hyderabad,42000000.0,15256.0,SUPER AREA,2753.0,3,Unknown,3
+RainbowVistas,Apartment,Hitech City Hyderabad,15000000.0,9901.0,CARPET AREA,1515.0,3,Unknown,3
+Lanco Hills,Apartment,Manikonda Jagir Hyderabad,41500000.0,11253.0,SUPER AREA,3688.0,4,Unknown,4
+Lansum Etania,Apartment,Gachibowli Hyderabad,45000000.0,13932.0,CARPET AREA,3000.0,4,Unknown,4
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",23700000.0,9333.0,CARPET AREA,2550.0,3,Unknown,3
+Sovereign Shelter,Apartment,"Lakdikapul, NH 9 Hyderabad",6000000.0,5231.0,CARPET AREA,924.0,3,Unknown,3
+1500 sqft,Apartment,Izzathnagar Hyderabad,12700000.0,8500.0,CARPET AREA,1500.0,3,Unknown,3
+1940 sqft,Apartment,Serilingampalle M Hyderabad,15900000.0,8200.0,CARPET AREA,1940.0,3,Unknown,3
+Trendset Jayabheri Elevate,Apartment,Kondapur Hyderabad,32000000.0,14447.0,SUPER AREA,2215.0,3,Unknown,3
+1501 sqft,Apartment,"Kollur, Outer Ring Road Hyderabad",14200000.0,7497.0,CARPET AREA,1501.0,3,Unknown,3
+Mangala Apartment,Apartment,"Walker Town, Padmarao Nagar Hyderabad",33500000.0,12407.0,CARPET AREA,2400.0,3,Unknown,3
+1640 sqft,Apartment,"Miyapur, NH 9 Hyderabad",12500000.0,7622.0,SUPER AREA,1640.0,3,Furnished,3
+Shangrilas Abbham,Apartment,Saibaba Nagar Kismatpur Hyderabad,42000000.0,7000.0,CARPET AREA,3230.0,4,Unknown,4
+Sri Sai Viradhya,Apartment,"Peerzadiguda, NH 2 2 Hyderabad",13600000.000000002,6660.0,CARPET AREA,1572.0,3,Unknown,3
+Kalpataru Residency,Apartment,"Sanath Nagar, NH 9 Hyderabad",13500000.0,10672.0,SUPER AREA,1265.0,2,Unknown,2
+Janapriya Nile Valley,Apartment,"Miyapur, NH 9 Hyderabad",9500000.0,8636.0,CARPET AREA,850.0,2,Semi-Furnished,2
+Panchavati Apartments,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",7000000.0,5833.0,SUPER AREA,1200.0,3,Unknown,3
+Siri Signature,Apartment,Kakatiya Hills Kavuri Hills Hyderabad,13500000.0,9541.0,CARPET AREA,1215.0,3,Unknown,3
+Ramky One Galaxia,Apartment,HUDA Layout Nalagandla Hyderabad,16000000.0,10589.0,SUPER AREA,1511.0,3,Unknown,3
+Manjeera Diamond Towers,Apartment,Gachibowli Hyderabad,12500000.0,7102.0,CARPET AREA,1460.0,3,Unknown,3
+890 sqft,Apartment,Bachupally Hyderabad,6500000.0,5350.0,CARPET AREA,890.0,2,Unknown,2
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda Hyderabad",24500000.0,11036.0,CARPET AREA,2100.0,3,Unknown,3
+850 sqft,Apartment,Phase 6 KPHB Hyderabad,7900000.0,7900.0,CARPET AREA,850.0,2,Unknown,2
+Jubilee Ballpark,Apartment,Jubilee Hills Hyderabad,31000000.0,11481.0,CARPET AREA,2600.0,3,Unknown,3
+Candeur Crescent,Apartment,Lingampally Serilingampalle Hyderabad,16900000.0,8999.0,CARPET AREA,1468.0,3,Unknown,3
+Suvarna Soudha Apartment,Apartment,Himayatnagar Hyderabad,12400000.0,8158.0,CARPET AREA,1370.0,3,Unknown,3
+Sumadhura Acropolis,Apartment,Gachibowli Hyderabad,19000000.0,12219.0,CARPET AREA,1500.0,3,Unknown,3
+Aditya Hill Top Residency,Apartment,Jubilee Hills Hyderabad,25000000.0,11236.0,CARPET AREA,2200.0,3,Unknown,3
+Prestige Beverly Hills,Apartment,"Kokapet, Outer Ring Road Hyderabad",36000000.0,13294.0,SUPER AREA,2708.0,4,Unknown,4
+Mantri Celestia,Apartment,Gachibowli Hyderabad,13000000.0,10851.0,SUPER AREA,1198.0,3,Unknown,3
+1730 sqft,Apartment,Power Welfare Society Hyderabad,15600000.0,9019.0,CARPET AREA,1730.0,3,Unknown,3
+Movie Towers,Apartment,"Kokapet, Outer Ring Road Hyderabad",32000000.0,11429.0,CARPET AREA,2100.0,3,Unknown,3
+Candeur Crescent,Apartment,Adarsh Nagar Serilingampalle M Hyderabad,14200000.0,8850.0,SUPER AREA,1605.0,3,Unknown,3
+1350 sqft,Apartment,Kapra Hyderabad,8500000.0,5449.0,CARPET AREA,1350.0,3,Unfurnished,2
+1300 sqft,Apartment,Hitech City Hyderabad,12500000.0,9259.0,CARPET AREA,1300.0,3,Unknown,3
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road Hyderabad",23000000.0,11386.0,CARPET AREA,1490.0,3,Unknown,3
+Sri Ram Garden By Jains,Apartment,Suchitra Road Hyderabad,22400000.000000004,11487.0,CARPET AREA,1900.0,3,Unknown,3
+Lore Asvasidh Towers,Apartment,Camelot Layout Hyderabad,16500000.0,10680.0,SUPER AREA,1545.0,3,Unknown,3
+Aparna CyberHeights,Apartment,Osman Nagar Hyderabad,12700000.0,9359.0,SUPER AREA,1357.0,2,Unknown,2
+Vasavi Lake City,Apartment,"Hafeezpet, NH 9 Hyderabad",13500000.0,8182.0,SUPER AREA,1650.0,3,Unknown,3
+1450 sqft,Apartment,Kondapur Hyderabad,11000000.0,7333.0,CARPET AREA,1450.0,3,Unfurnished,3
+Vision Towers,Apartment,Sainikpuri Hyderabad,12000000.0,6452.0,CARPET AREA,1740.0,3,Unknown,3
+3000 sqft,Apartment,"Banjara Hills, NH 9 Hyderabad",53000000.0,17097.0,CARPET AREA,3000.0,3,Unknown,3
+Jayabheri The Nirvana,Apartment,Gachibowli Hyderabad,30000000.0,15625.0,CARPET AREA,1300.0,3,Unknown,3
+Lodha Casa Paradiso,Apartment,"Sanath Nagar, NH 9 Hyderabad",13000000.0,9441.0,SUPER AREA,1377.0,2,Unknown,2
+EIPL La Paloma,Apartment,Mokila Hyderabad,33000000.0,8500.0,SUPER AREA,3890.0,3,Unknown,3
+Laviedge Rolling Hills,Apartment,Gachibowli Hyderabad,6890000.000000001,5500.0,SUPER AREA,1253.0,2,Unknown,2
+1500 sqft,Apartment,"Lakdikapul, NH 9 Hyderabad",11500000.0,7099.0,CARPET AREA,1500.0,3,Semi-Furnished,3
+Lanco Hills,Apartment,Manikonda Jagir Hyderabad,21200000.0,8360.0,SUPER AREA,2536.0,3,Unknown,3
+Vaishnavi Estates Fresh Living Apartments,Apartment,Madhapur Hyderabad,12000000.0,9820.0,SUPER AREA,1222.0,2,Unknown,2
+Dhanwin Towers,Apartment,"Bowrampet, Outer Ring Road Hyderabad",5100000.0,4378.0,SUPER AREA,1165.0,2,Unfurnished,2
+Aditya Imperial Heights,Apartment,"Hafeezpet, NH 9 Hyderabad",14500000.0,7632.0,CARPET AREA,1800.0,3,Semi-Furnished,3
+Jains Carlton Creek Phase II,Apartment,Gachibowli Hyderabad,24000000.0,10385.0,SUPER AREA,2311.0,4,Semi-Furnished,3
+Gem Nakshathra,Apartment,"Kokapet, Outer Ring Road Hyderabad",7870000.0,6100.0,SUPER AREA,1290.0,2,Unknown,2
+1900 sqft,Apartment,"Banjara Hills, NH 9 Hyderabad",23500000.0,12368.0,SUPER AREA,1900.0,3,Unfurnished,3
+Hallmark Skyrena,Apartment,"Narsingi, Outer Ring Road Hyderabad",20000000.0,10336.0,SUPER AREA,1935.0,3,Unknown,3
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,18500000.0,10632.0,CARPET AREA,1550.0,3,Unknown,3
+1150 sqft,Apartment,Jubilee Hills Hyderabad,10000000.0,8696.0,SUPER AREA,1150.0,2,Unfurnished,2
+Stellar RNP 1,Apartment,Kondapur Hyderabad,19000000.0,9501.0,CARPET AREA,1541.0,3,Unknown,3
+Trendset Jayabheri Elevate,Apartment,Hitech City Hyderabad,42500000.0,14991.0,CARPET AREA,1940.0,3,Unknown,3
+Elegant Floatilla,Apartment,Neknampur Hyderabad,19800000.0,9778.0,CARPET AREA,1550.0,3,Unknown,3
+Aparna Zenon,Apartment,Puppalguda Hyderabad,22500000.0,13143.0,SUPER AREA,1712.0,3,Unfurnished,3
+Sampada Homes,Apartment,Manikonda Jagir Hyderabad,10100000.0,5941.0,CARPET AREA,1700.0,3,Unfurnished,3
+N L Homes Dammaiguda,Apartment,Maruthi Enclave Hyderabad,5000000.0,4000.0,CARPET AREA,1200.0,2,Semi-Furnished,2
+Rubrick Tripura,Apartment,"Gandi Maisamma, Outer Ring Road Hyderabad",12000000.0,6857.0,SUPER AREA,1750.0,3,Unknown,3
+1000 sqft,Apartment,Kondapur Hyderabad,14000000.0,11200.0,CARPET AREA,1000.0,2,Unknown,2
+Sri Shridi Sai Residency,Apartment,Beeramguda Ramachandrapuram Hyderabad,4000000.0,5882.35294117647,CARPET AREA,680.0,2,Furnished,2
+Vasavi Atlantis,Apartment,"Narsingi, Outer Ring Road Hyderabad",31600000.0,9500.0,SUPER AREA,3330.0,3,Unknown,3
+Pragathis Raghupathi County,Apartment,Bachupally Hyderabad,11399999.999999998,9011.85770750988,CARPET AREA,1265.0,2,Unknown,2
+Janapriya Lakefront,Apartment,Kapra Hyderabad,4100000.0,4659.0,CARPET AREA,660.0,2,Semi-Furnished,2
+Candeur Crescent,Apartment,Lingampally Serilingampalle Hyderabad,16200000.000000002,10093.0,CARPET AREA,1270.0,3,Unknown,3
+Manbhum Around the Grove,Apartment,Kondapur Hyderabad,36000000.0,11823.0,CARPET AREA,2132.0,4,Unknown,4
+730 sqft,Apartment,HUDA Complex Saroornagar Hyderabad,3800000.0,5067.0,CARPET AREA,730.0,2,Unfurnished,2
+2160 sqft,Apartment,"Moosapet, NH 9 Hyderabad",23000000.0,10648.0,SUPER AREA,2160.0,3,Unknown,3
+Sri Sai Jewel Heights,Apartment,"Kaithalapur, Borabanda Hyderabad",15300000.0,11981.0,CARPET AREA,1277.0,2,Unknown,2
+1135 sqft,Apartment,Markandeya Nagar Jeedimetla Hyderabad,5500000.0,4845.814977973569,CARPET AREA,1135.0,3,Furnished,3
+1450 sqft,Apartment,"Ameerpet, NH 9 Hyderabad",10000000.0,6896.551724137931,CARPET AREA,1450.0,3,Furnished,3
+Poe Tree Extension,Apartment,"Narsingi, Outer Ring Road Hyderabad",16000000.0,8368.0,CARPET AREA,1828.0,3,Unknown,3
+Tarangini,Apartment,Bandlaguda Jagir Hyderabad,14200000.0,7100.0,SUPER AREA,2010.0,3,Unfurnished,3
+940 sqft,Apartment,Chikkadpally Hyderabad,6500000.0,6915.0,SUPER AREA,940.0,2,Semi-Furnished,2
+Sukhii Ubuntu,Apartment,Puppalguda Hyderabad,16500000.0,11000.0,SUPER AREA,1500.0,3,Unknown,3
+Muppas Melody,Apartment,"Tellapur, Outer Ring Road Hyderabad",10800000.0,7200.0,CARPET AREA,1600.0,2,Unfurnished,2
+My Home Tridasa,Apartment,"Tellapur, Outer Ring Road Hyderabad",17500000.0,9511.0,SUPER AREA,1840.0,3,Unknown,3
+1700 sqft,Apartment,Ameerpet Road Hyderabad,16800000.0,10633.0,CARPET AREA,1700.0,3,Unknown,3
+SMR Vinay Fountainhead,Apartment,"Miyapur, NH 9 Hyderabad",13000000.0,9123.0,SUPER AREA,1425.0,2,Unknown,2
+Cybercity Westbrook,Apartment,"Kokapet, Outer Ring Road Hyderabad",15700000.0,10680.0,SUPER AREA,1470.0,3,Unknown,3
+Lansum Elena,Apartment,"Kokapet, Outer Ring Road Hyderabad",25000000.0,12124.0,CARPET AREA,1576.0,3,Unknown,3
+Ramky Repose,Apartment,Kondapur Hyderabad,14000000.0,6364.0,CARPET AREA,1650.0,3,Unknown,3
+Ashoka ASBL Spectra,Apartment,Malakunta Financial District Hyderabad,25000000.0,11261.0,SUPER AREA,2220.0,3,Unknown,3
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",22000000.0,11423.0,CARPET AREA,13350.0,3,Unknown,3
+2000 sqft,Apartment,Domalguda Himayatnagar Hyderabad,19000000.0,9500.0,SUPER AREA,2000.0,3,Semi-Furnished,3
+BSCPL Bollineni Bion,Apartment,Kondapur Hyderabad,40000000.0,11940.298507462687,CARPET AREA,3350.0,4,Semi-Furnished,4
+Bricks Cyberwoods,Apartment,Osman Nagar Hyderabad,22000000.0,8333.0,SUPER AREA,2640.0,4,Unfurnished,4
+Honer Signatis,Apartment,KPHB Phase 15 Hyderabad,21000000.0,11141.0,SUPER AREA,1885.0,3,Unknown,3
+Aditya Empress Towers,Apartment,Shaikpet Hyderabad,12500000.0,7937.0,SUPER AREA,1575.0,3,Semi-Furnished,3
+Jains Carlton Creek Phase II,Apartment,Gachibowli Hyderabad,11000000.0,10446.343779677112,CARPET AREA,1053.0,2,Semi-Furnished,2
+Aavasa Emerald,Apartment,"LB Nagar, NH 9 Hyderabad",10800000.0,7036.0,SUPER AREA,1535.0,3,Unknown,3
+Signature Altius,Apartment,"Kollur, Outer Ring Road Hyderabad",11000000.0,5867.0,SUPER AREA,1875.0,3,Unfurnished,3
+1750 sqft,Apartment,"Dandamudi Enclave, Jeedimetla Hyderabad",9500000.0,5429.0,SUPER AREA,1750.0,3,Unfurnished,3
+My Home Mangala,Apartment,Kondapur Hyderabad,18200000.0,14000.0,SUPER AREA,1300.0,2,Semi-Furnished,2
+Jayabheri The Nirvana,Apartment,Maheshwaram Hyderabad,26000000.0,11872.0,SUPER AREA,2190.0,3,Unfurnished,3
+Aparna Sarovar Zicon,Apartment,HUDA Layout Nalagandla Hyderabad,20100000.0,11552.0,CARPET AREA,1200.0,3,Unknown,3
+Aparna Sarovar,Apartment,HUDA Layout Nalagandla Hyderabad,19500000.0,10833.0,CARPET AREA,1500.0,3,Semi-Furnished,3
+Highness Residency Banjara Hills,Apartment,"Banjara Hills, NH 9 Hyderabad",14000000.0,9333.0,CARPET AREA,1250.0,2,Furnished,3
+1620 sqft,Apartment,New Nallakunta Hyderabad,10600000.0,6543.0,SUPER AREA,1620.0,3,Furnished,3
+Prestige Clairemont,Apartment,"Kokapet, Outer Ring Road Hyderabad",28500000.0,12627.0,CARPET AREA,2257.0,3,Unfurnished,3
+RNR Fort View Towers,Apartment,Attapur Hyderabad,11000000.0,8943.0,CARPET AREA,1230.0,3,Unknown,3
+RK Residency Malkajgiri,Apartment,Malkajgiri Hyderabad,5100000.0,5285.0,CARPET AREA,965.0,2,Semi-Furnished,2
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",25500000.0,11273.0,CARPET AREA,1579.0,3,Unknown,3
+Parijatha Pride,Apartment,Ponnal Shamirpet Hyderabad,5500000.0,4783.0,CARPET AREA,1000.0,2,Unknown,2
+1275 sqft,Apartment,East Prasanth Nagar Hyderabad,7000000.0,4698.0,CARPET AREA,1275.0,3,Furnished,3
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",14000000.0,10370.0,SUPER AREA,1350.0,2,Unfurnished,2
+Ramky Truspace Aspire,Apartment,"Quthbullapur, NH 7 Hyderabad",8900000.0,9519.0,CARPET AREA,606.0,2,Unknown,2
+1400 sqft,Apartment,"Tellapur, Outer Ring Road Hyderabad",9900000.0,7071.0,SUPER AREA,1400.0,3,Unknown,3
+Prestige High Fields,Apartment,Gachibowli Hyderabad,19000000.0,14809.0,CARPET AREA,1283.0,2,Unknown,2
+Lansum Elena,Apartment,"Lansum Elena, Kokapet, Hyderabad,Lansum Elena, Kokapet, Hyderabad Hyderabad",35000000.0,9272.0,SUPER AREA,3775.0,4,Unfurnished,5
+A2A Homeland,Apartment,Balanagar Hyderabad,13500000.0,8940.0,CARPET AREA,1240.0,3,Unknown,3
+Cybercity Marina Skies,Apartment,Hitech City Hyderabad,15000000.0,12397.0,CARPET AREA,1110.0,2,Unknown,2
+1570 sqft,Apartment,New Nallakunta Hyderabad,16500000.0,10510.0,SUPER AREA,1570.0,3,Semi-Furnished,3
+SV Sai Maharaj Vihar,Apartment,"Peerzadiguda, NH 2 2 Hyderabad",8600000.0,6626.0,CARPET AREA,1030.0,2,Unknown,2
+910 sqft,Apartment,Sainathpuram Hyderabad,3600000.0,3956.0,SUPER AREA,910.0,2,Unfurnished,2
+Sai Nivas Ecil,Apartment,ECIL Hyderabad,7000000.0,3944.0,CARPET AREA,1400.0,2,Unfurnished,3
+1800 sqft,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",11700000.0,6500.0,CARPET AREA,1800.0,3,Unfurnished,3
+1578 sqft,Apartment,Osman Nagar Hyderabad,15000000.0,9505.703422053231,CARPET AREA,1578.0,3,Unknown,3
+1540 sqft,Apartment,"Hafeezpet, NH 9 Hyderabad",16500000.0,10714.0,SUPER AREA,1540.0,3,Unknown,3
+SMR Vinay Metropolis,Apartment,"Miyapur, NH 9 Hyderabad",9920000.0,8100.0,CARPET AREA,1012.0,3,Unknown,3
+Cybercity Marina Skies,Apartment,Hitech City Hyderabad,15500000.0,9394.0,SUPER AREA,1650.0,3,Unknown,3
+Jains Radhakrishna Bliss,Apartment,LB Nagar Uppal Road Hyderabad,6000000.0,3031.0,SUPER AREA,1980.0,3,Unknown,3
+1149 sqft,Apartment,Bachupally Hyderabad,12000000.0,7921.0,CARPET AREA,1149.0,3,Furnished,3
+Capital Green,Apartment,Manikonda Road Hyderabad,26000000.0,15476.0,CARPET AREA,1680.0,3,Furnished,3
+1600 sqft,Apartment,Jillalguda Hyderabad,9800000.0,5765.0,CARPET AREA,1600.0,3,Unknown,3
+3557 sqft,Apartment,Manikonda Jagir Hyderabad,40900000.0,11500.0,SUPER AREA,3557.0,3,Unknown,3
+Infocity Emerald,Apartment,"Hafeezpet, NH 9 Hyderabad",9500000.0,6934.0,SUPER AREA,1370.0,2,Semi-Furnished,2
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,25000000.0,13193.0,CARPET AREA,1212.0,3,Unknown,3
+Urbanrise Spring Is In The Air,Apartment,HMT Colony Miyapur Hyderabad,9000000.0,8662.0,CARPET AREA,639.0,3,Unknown,3
+Vishnus Blue Lotus,Apartment,"Banjara Hills, NH 9 Hyderabad",34900000.0,10738.0,SUPER AREA,3250.0,4,Unknown,4
+Balaji Residency Nizampet,Apartment,Nizampet Hyderabad,6500000.0,5532.0,SUPER AREA,1175.0,2,Furnished,2
+Aparna Sarovar Zicon,Apartment,Nalagandla Hyderabad,23000000.0,12042.0,CARPET AREA,1275.0,3,Unknown,3
+Envirise Apartment Homes,Apartment,"Pocharam, NH 2 2 Hyderabad",11500000.0,6765.0,CARPET AREA,1650.0,3,Semi-Furnished,3
+1240 sqft,Apartment,New Gayatri Nagar Jillalguda Hyderabad,7200000.0,5000.0,CARPET AREA,1240.0,3,Semi-Furnished,3
+Prestige Tranquil,Apartment,"Kokapet, Outer Ring Road Hyderabad",17000000.0,9637.0,SUPER AREA,1764.0,3,Unfurnished,3
+The Prestige City,Apartment,"Umdanagar, Rajendra Nagar Hyderabad",18500000.0,11343.0,CARPET AREA,1144.0,3,Unknown,3
+Reliance Jubilee,Apartment,Toli Chowki Hyderabad,12800000.0,10348.0,SUPER AREA,1237.0,2,Semi-Furnished,2
+Vajras Jasmine County,Apartment,Gachibowli Hyderabad,24000000.0,11940.0,SUPER AREA,2010.0,3,Unknown,3
+1420 sqft,Apartment,"Golf Pride Homes, Secunderabad Hyderabad",12500000.0,8117.0,CARPET AREA,1420.0,3,Unknown,3
+1560 sqft,Apartment,"Tellapur, Outer Ring Road Hyderabad",12500000.0,8012.820512820513,CARPET AREA,1560.0,2,Unfurnished,2
+Prestige Beverly Hills,Apartment,"Kokapet, Outer Ring Road Hyderabad",34000000.0,12555.0,CARPET AREA,2200.0,4,Unknown,4
+2000 sqft,Apartment,Sai Aishwarya Layout Manikonda Hyderabad,18000000.0,8571.0,CARPET AREA,2000.0,3,Semi-Furnished,3
+2236 sqft,Apartment,"Banjara Hills, NH 9 Hyderabad",29000000.0,11895.0,CARPET AREA,2236.0,3,Unknown,3
+1800 sqft,Apartment,"Banjara Hills, NH 9 Hyderabad",19000000.0,10556.0,SUPER AREA,1800.0,3,Unfurnished,3
+1600 sqft,Apartment,East Marredpally Hyderabad,16500000.0,9706.0,CARPET AREA,1600.0,3,Unknown,3
+Madhu Shirdi Sai Heights,Apartment,Kondapur Hyderabad,12500000.0,7669.0,CARPET AREA,1600.0,3,Unknown,3
+Ananda The Ozone Heights,Apartment,"Tellapur, Outer Ring Road Hyderabad",17200000.0,7544.0,SUPER AREA,2280.0,3,Unknown,3
+Concrete Harmony,Apartment,"Habsiguda, NH 2 2 Hyderabad",13000000.0,6047.0,CARPET AREA,2000.0,3,Unknown,3
+1800 sqft,Apartment,Sainikpuri Cross Road Hyderabad,11800000.0,6378.0,CARPET AREA,1800.0,3,Unknown,3
+1100 sqft,Apartment,Jai Bharat Nagar Hyderabad,7500000.0,6818.181818181818,CARPET AREA,1100.0,2,Semi-Furnished,2
+Aurobindo Kohinoor,Apartment,Izzathnagar Hyderabad,22800000.0,24728.850325379608,CARPET AREA,922.0,3,Unknown,3
+Jamuna Sadan Begumpet,Apartment,Mayur Marg Hyderabad,4610000.0,4695.0,CARPET AREA,800.0,2,Unfurnished,2
+Chabbras Castle,Apartment,"Red Hills, Lakdikapul, NH 7 Hyderabad",11000000.0,5930.0,SUPER AREA,1855.0,3,Unfurnished,3
+My Home Avatar,Apartment,"Narsingi, Outer Ring Road Hyderabad",23500000.0,12814.0,CARPET AREA,1800.0,3,Unknown,3
+Indis PBEL City,Apartment,Peeramcheru Hyderabad,15000000.0,9778.0,SUPER AREA,1534.0,3,Unknown,3
+Parijatha Pride,Apartment,Shamirpet Hyderabad,5000000.0,4255.0,CARPET AREA,1000.0,2,Semi-Furnished,2
+Sainikpuri Plots,Apartment,Sainikpuri Hyderabad,6200000.0,5905.0,CARPET AREA,850.0,2,Unknown,2
+Aparna CyberHeights,Apartment,Osman Nagar Hyderabad,15000000.0,9282.0,CARPET AREA,1500.0,3,Unknown,3
+2015 sqft,Apartment,Kompally Hyderabad,11800000.0,5900.0,SUPER AREA,2015.0,3,Unknown,3
+Rajapushpa Imperia,Apartment,"Tellapur, Outer Ring Road Hyderabad",18000000.0,10465.0,SUPER AREA,1720.0,3,Unknown,3
+Ramky One Odyssey,Apartment,"Kokapet, Outer Ring Road Hyderabad",18000000.0,10286.0,CARPET AREA,1145.0,3,Unfurnished,3
+EIPL La Paloma,Apartment,Mokila Hyderabad,46000000.0,11795.0,SUPER AREA,3900.0,4,Unknown,4
+Niharika Interlake,Apartment,Manikonda Jagir Hyderabad,17700000.0,8850.0,SUPER AREA,2000.0,3,Unknown,3
+Makuta Myspace,Apartment,"Pragathi Nagar, Kukatpally Hyderabad",10900000.0,4964.0,SUPER AREA,2200.0,3,Unknown,3
+DSR Fortune Prime,Apartment,"Vittal Rao Nagar, Hitech City Hyderabad",25700000.0,9800.0,SUPER AREA,2625.0,3,Unknown,3
+Western Plaza,Apartment,Jubilee Hills Hyderabad,11100000.000000002,6500.0,SUPER AREA,1715.0,2,Unknown,2
+Bricks Cyberwoods,Apartment,Osman Nagar Hyderabad,10500000.0,7807.0,CARPET AREA,735.0,2,Semi-Furnished,2
+Candeur Lakescape,Apartment,Kondapur Hyderabad,25000000.0,10348.0,SUPER AREA,2416.0,4,Unknown,4
+Vaishnavi Estates Fresh Living Apartments,Apartment,Madhapur Hyderabad,10800000.0,9881.0,SUPER AREA,1093.0,2,Unknown,2
+Trendset Winz,Apartment,Gachibowli Hyderabad,20000000.0,7921.0,SUPER AREA,2525.0,3,Unknown,3
+RV Silpa Hilltop,Apartment,Gachibowli Hyderabad,9900000.0,7857.0,SUPER AREA,1260.0,2,Unknown,2
+Aparna Hill Park,Apartment,Chanda Nagar Hyderabad,9500000.0,6786.0,SUPER AREA,1400.0,3,Unknown,3
+Aparna Towers,Apartment,Jayabheri Enclave Hyderabad,12000000.0,6877.0,SUPER AREA,1745.0,3,Unknown,3
+1825 sqft,Apartment,Dilsukhnagar Hyderabad,9700000.0,5315.0,CARPET AREA,1825.0,3,Unfurnished,3
+Sumadhura Horizon,Apartment,Kondapur Hyderabad,20000000.0,13289.0,SUPER AREA,1505.0,3,Unfurnished,3
+Sunshine Tansy,Apartment,Manikonda Jagir Hyderabad,13000000.0,8609.0,SUPER AREA,1510.0,3,Unknown,3
+Aparna Cyberon,Apartment,Osman Nagar Hyderabad,18000000.0,9600.0,SUPER AREA,1875.0,3,Semi-Furnished,3
+Mantri Celestia,Apartment,Gachibowli Hyderabad,14800000.0,12354.0,SUPER AREA,1198.0,3,Unknown,3
+Vertex Pristine,Apartment,"Hyder Nagar, NH 9 Hyderabad",8900000.0,7000.0,SUPER AREA,1271.0,2,Unfurnished,2
+Raintree Park Phase I,Apartment,"Kukatpally, NH 9 Hyderabad",15000000.0,10714.0,CARPET AREA,1150.0,3,Furnished,3
+Aditya Capitol Heights,Apartment,Hitech City Hyderabad,15000000.0,7500.0,SUPER AREA,2000.0,3,Unknown,3
+RV Dharmista,Apartment,"Miyapur, NH 9 Hyderabad",8400000.0,7047.0,SUPER AREA,1192.0,2,Unknown,2
+Vasavi Sri Nilayam,Apartment,"LB Nagar, NH 9 Hyderabad",8500000.0,6883.0,SUPER AREA,1235.0,2,Unknown,2
+My Home Krishe,Apartment,Nanakaramguda Hyderabad,11600000.0,9098.0,SUPER AREA,1275.0,2,Unknown,2
+My Home Krishe,Apartment,Nanakaramguda Hyderabad,11500000.0,9020.0,SUPER AREA,1275.0,2,Unknown,2
+Aditya Capitol Heights,Apartment,Hitech City Hyderabad,14000000.0,7487.0,SUPER AREA,1870.0,3,Unknown,3
+Anuhar Sunny Side,Apartment,"Alkapur Township, Manikonda, Outer Ring Road Hyderabad",10800000.0,5500.0,SUPER AREA,1973.0,3,Unknown,3
+SAS Srias Diamond Towers,Apartment,"Financial District, Nanakram Guda Hyderabad",49000000.0,11653.0,SUPER AREA,4205.0,4,Unknown,4
+Candeur Crescent,Apartment,Serilingampalle M Hyderabad,15000000.0,9369.0,SUPER AREA,1601.0,3,Unknown,3
+Candeur 40,Apartment,"Miyapur, NH 9 Hyderabad",14000000.0,11058.0,CARPET AREA,1056.0,3,Unfurnished,3
+ASBL Spire,Apartment,"Kokapet, Outer Ring Road Hyderabad",17500000.0,9186.0,SUPER AREA,1905.0,3,Unfurnished,3
+Ramky One Kosmos,Apartment,Nalagandla Hyderabad,10300000.0,9279.0,SUPER AREA,1110.0,2,Furnished,2
+2150 sqft,Apartment,Manikonda Jagir Hyderabad,11200000.000000002,5209.0,CARPET AREA,2150.0,4,Unfurnished,4
+Team 4 Nyla,Apartment,"Miyapur, NH 9 Hyderabad",18000000.0,9574.0,SUPER AREA,1880.0,3,Unknown,3
+Auro Kohinoor Phase Iii,Apartment,Hitech City Hyderabad,28000000.0,12844.0,CARPET AREA,2188.0,3,Unknown,3
+1080 sqft,Apartment,"South Kamala Nagar, Secunderabad Hyderabad",5070000.0,4694.0,SUPER AREA,1080.0,2,Furnished,2
+620 sqft,Apartment,Madhura Nagar Colony Hyderabad,2910000.0,4693.548387096775,CARPET AREA,620.0,1,Unfurnished,2
+520 sqft,Apartment,RTC Colony-Chandanagar Hyderabad,2440000.0,4692.0,CARPET AREA,520.0,1,Semi-Furnished,2
+Aditya Empress Towers,Apartment,OU Colony Shaikpet Hyderabad,16000000.0,7619.0,CARPET AREA,2100.0,3,Unknown,3
+My Home Tridasa,Apartment,"Tellapur, Outer Ring Road Hyderabad",14800000.0,11812.0,SUPER AREA,1253.0,2,Unknown,2
+My Home Avatar,Apartment,"Narsingi, Outer Ring Road Hyderabad",16500000.0,12557.077625570777,CARPET AREA,1314.0,2,Semi-Furnished,2
+Jains Carlton Creek Phase II,Apartment,Gachibowli Hyderabad,12000000.0,8696.0,SUPER AREA,1380.0,3,Semi-Furnished,3
+SMR Vinay Iconia,Apartment,Kondapur Hyderabad,18000000.0,9434.0,SUPER AREA,1908.0,3,Unknown,3
+Raintree Abode,Apartment,Lingampally Serilingampalle Hyderabad,12000000.0,8236.0,SUPER AREA,1457.0,3,Furnished,2
+Prestige High Fields,Apartment,"Financial District, Nanakram Guda Hyderabad",21000000.0,12055.109070034443,CARPET AREA,1742.0,3,Semi-Furnished,3
+My Home Avatar,Apartment,"Narsingi, Outer Ring Road Hyderabad",18500000.0,14079.0,SUPER AREA,1314.0,2,Semi-Furnished,2
+1655 sqft,Apartment,"Sabza Colony, Toli Chowki Hyderabad",13700000.000000002,8278.0,SUPER AREA,1655.0,3,Unknown,3
+1695 sqft,Apartment,"Kukatpally, NH 9 Hyderabad",15000000.0,8571.0,CARPET AREA,1695.0,3,Unknown,3
+950 sqft,Apartment,Ameenpur Hyderabad,7600000.0,6333.0,CARPET AREA,950.0,2,Unfurnished,2
+My Home Sayuk,Apartment,"Tellapur, Outer Ring Road Hyderabad",23000000.0,11886.0,CARPET AREA,1600.0,3,Unknown,3
+SBC Pristine Place,Apartment,Gajularamaram Hyderabad,8200000.0,5290.0,SUPER AREA,1550.0,3,Unknown,3
+Sunshine Green Meadows,Apartment,Bachupally Hyderabad,9850000.0,6313.0,SUPER AREA,1560.0,3,Unknown,3
+1200 sqft,Apartment,Bachupally Hyderabad,8500000.0,7083.0,CARPET AREA,1200.0,2,Unknown,2
+1425 sqft,Apartment,Balaji Hills Colony Srinivasa Colony Hyderabad,8200000.0,5754.0,SUPER AREA,1425.0,3,Furnished,2
+Aparna Kanopy Marigold,Apartment,"Gundlapochampally, Outer Ring Road Hyderabad",9000000.0,7200.0,SUPER AREA,1250.0,2,Unknown,2
+1076 sqft,Apartment,"Telecom Nagar Extension, Gachibowli, Outer Ring Road Hyderabad",15000000.0,10453.0,CARPET AREA,1076.0,3,Unfurnished,3
+Urbanrise On Cloud 33,Apartment,Bachupally Hyderabad,12000000.0,10811.0,SUPER AREA,1110.0,2,Unknown,2
+SMR Vinay Boulder Woods,Apartment,Bandlaguda Jagir Hyderabad,15100000.0,8032.0,CARPET AREA,1800.0,3,Unknown,3
+1850 sqft,Apartment,"Tellapur, Outer Ring Road Hyderabad",17500000.0,7926.0,CARPET AREA,1850.0,3,Unknown,3
+1471 sqft,Apartment,Musarambagh Hyderabad,12000000.0,8157.715839564922,CARPET AREA,1471.0,3,Unknown,3
+S and S Green Grace,Apartment,Khajaguda Hyderabad,28000000.0,11642.0,CARPET AREA,2000.0,3,Unknown,3
+Sri Sai Ram Manor,Apartment,"Yousufguda, NH 9 Hyderabad",12000000.0,8070.0,CARPET AREA,1350.0,3,Unknown,3
+BSCPL Bollineni Bion,Apartment,Kondapur Hyderabad,26500000.0,13486.0,SUPER AREA,1965.0,3,Unknown,3
+RV Advaita,Apartment,"Kukatpally, NH 9 Hyderabad",20000000.0,8989.0,CARPET AREA,2125.0,3,Unknown,3
+Honer Vivantis,Apartment,Gopanpalle Hyderabad,16500000.0,10510.0,SUPER AREA,1570.0,3,Unknown,3
+1700 sqft,Apartment,Nalagandla Hyderabad,13000000.0,7307.0,CARPET AREA,1700.0,3,Unknown,3
+Balaji,Apartment,Gajularamaram Hyderabad,5300000.0,5408.0,CARPET AREA,980.0,2,Unfurnished,2
+Himagiri Heights,Apartment,"Hafeezpet, NH 9 Hyderabad",7250000.0,5800.0,SUPER AREA,1250.0,2,Semi-Furnished,2
+2400 sqft,Apartment,Kothapet Hyderabad,11000000.0,4583.0,SUPER AREA,2400.0,3,Furnished,3
+Janapriya Metropolis,Apartment,Ashok Marg Hyderabad,12000000.0,9600.0,CARPET AREA,1250.0,3,Semi-Furnished,3
+Keerthi Sunrise,Apartment,Bandlaguda Jagir Hyderabad,11000000.0,5500.0,CARPET AREA,1350.0,2,Furnished,2
+1245 sqft,Apartment,"Hafeezpet, NH 9 Hyderabad",11000000.0,8835.0,SUPER AREA,1245.0,2,Unfurnished,2
+Janapriya Metropolis,Apartment,Moti Nagar Erragadda Hyderabad,9800000.0,8634.0,SUPER AREA,1135.0,3,Unknown,3
+2200 sqft,Apartment,Journalist Colony Jubilee Hills Hyderabad,23500000.0,9052.0,CARPET AREA,2200.0,3,Furnished,3
+Bhagya naryana complex,Apartment,"Banjara Hills, NH 9 Hyderabad",7500000.0,6818.0,CARPET AREA,1000.0,2,Unknown,2
+Cloudswood Radhey Skye,Apartment,"Kollur, Outer Ring Road Hyderabad",12000000.0,8889.0,SUPER AREA,1350.0,2,Unknown,2
+1665 sqft,Apartment,Velmala Hyderabad,11000000.0,6607.0,SUPER AREA,1665.0,3,Unknown,3
+Vishnu Nivas,Apartment,Nizampet Hyderabad,9500000.0,5757.575757575758,CARPET AREA,1650.0,3,Semi-Furnished,3
+1000 sqft,Apartment,Nacharam Mallapur Road Hyderabad,4500000.0,4500.0,CARPET AREA,1000.0,2,Unfurnished,2
+Cozy Essence Elysium,Apartment,Kompally Hyderabad,23400000.0,6500.0,SUPER AREA,3600.0,4,Unfurnished,4
+Makuta My Space 2,Apartment,Bachupally Hyderabad,16600000.0,7545.0,CARPET AREA,1921.0,3,Unknown,3
+1150 sqft,Apartment,Adda Gutta East Marredpally Hyderabad,7500000.0,5338.0,CARPET AREA,1150.0,2,Unknown,2
+Rainbow Vistas at Rock Garden,Apartment,Hitech City Hyderabad,17300000.0,11000.0,SUPER AREA,1580.0,3,Unknown,3
+Aparna Hill Park Avenues,Apartment,Chanda Nagar Hyderabad,11500000.0,8214.0,CARPET AREA,1220.0,2,Unknown,2
+Advaitas Vibha,Apartment,Osman Nagar Hyderabad,13000000.0,6582.0,SUPER AREA,1975.0,3,Unknown,3
+DSR The First,Apartment,Gachibowli Hyderabad,125000000.0,18752.0,CARPET AREA,6660.0,4,Unknown,4
+GSM Mall,Apartment,"Miyapur, NH 9 Hyderabad",11000000.0,6128.0,CARPET AREA,1400.0,3,Unfurnished,3
+Hallmark Sunnyside,Apartment,"Manchirevula, Outer Ring Road Hyderabad",12500000.0,10204.0,SUPER AREA,1225.0,2,Unfurnished,2
+SMR Vinay Iconia,Apartment,Masjid Banda Hyderabad,14000000.0,9622.0,CARPET AREA,1450.0,2,Unknown,2
+Aparna One,Apartment,Shaikpet Hyderabad,94000000.0,18021.0,SUPER AREA,5216.0,4,Unfurnished,4
+Sumadhura Infracon The Olympus,Apartment,Nanakaramguda Hyderabad,20500000.0,12275.0,SUPER AREA,1670.0,3,Unfurnished,3
+Crown Whistling Woods,Apartment,"Kokapet, Outer Ring Road Hyderabad",17000000.0,9798.0,SUPER AREA,1735.0,3,Semi-Furnished,2
+1580 sqft,Apartment,Manikonda Jagir Hyderabad,10000000.0,5882.0,CARPET AREA,1580.0,2,Unfurnished,2
+Frontline Seven,Apartment,"Kokapet, Outer Ring Road Hyderabad",23500000.0,10755.148741418765,CARPET AREA,2185.0,3,Unknown,3
+1605 sqft,Apartment,Banjara Hills Main Road,16000000.0,10323.0,CARPET AREA,1605.0,4,Unfurnished,3
+Fortune Mayura,Apartment,Bachupally,14000000.0,8974.0,SUPER AREA,1560.0,3,Unknown,3
+Endeco Lakeview Apartments,Apartment,"Hafeezpet, NH 9",13000000.0,6500.0,CARPET AREA,1850.0,4,Unfurnished,4
+Fortune Suraj Bhan Grande by SSI,Apartment,"Kokapet, Outer Ring Road",29000000.0,10000.0,SUPER AREA,2909.0,3,Unfurnished,3
+Aakriti Jiva,Apartment,Nalagandla,15500000.0,8000.0,SUPER AREA,1943.0,3,Unfurnished,3
+Devi Homes Samruddhi,Apartment,Patancheruvu,5720000.0,5200.0,SUPER AREA,1100.0,2,Unfurnished,2
+Skyline Apartments Old,Apartment,"Basheer Bagh, NH 7",16500000.0,6521.739130434783,CARPET AREA,2530.0,4,Furnished,4
+Ramky One Harmony,Apartment,Pragathi Nagar Road,12500000.0,7886.0,CARPET AREA,1485.0,3,Unknown,3
+2711 sqft,Apartment,"Banjara Hills, NH 9",43400000.0,12006.0,CARPET AREA,2711.0,4,Unknown,4
+Makuta Myspace,Apartment,"Pragathi Nagar, Kukatpally",12400000.0,6685.0,CARPET AREA,1855.0,3,Unknown,3
+Emami Swanlake,Apartment,"Kukatpally, NH 9",21000000.0,10244.0,SUPER AREA,2050.0,4,Unknown,4
+SMR Vinay Iconia,Apartment,Kondapur,17200000.0,9690.0,CARPET AREA,1700.0,3,Unknown,3
+Gauthami Abhiteja Paradise,Apartment,Kondapur,15000000.0,7732.0,CARPET AREA,1800.0,3,Semi-Furnished,3
+1000 sqft,Apartment,Phase 2 KPHB,11500000.0,11500.0,CARPET AREA,1000.0,2,Semi-Furnished,2
+Sri Hemadurga Sivahills,Apartment,Puppalguda,16000000.0,9117.0,SUPER AREA,1755.0,3,Unknown,3
+Aurobindo Kohinoor,Apartment,Izzathnagar,17700000.0,13657.0,CARPET AREA,913.0,2,Unknown,2
+Jains Carlton Creek Phase II,Apartment,Khajaguda,14000000.0,10116.0,CARPET AREA,1035.0,3,Semi-Furnished,3
+1530 sqft,Apartment,Gopanpalle,12000000.0,7362.0,CARPET AREA,1530.0,3,Unfurnished,3
+Krishe Meadows,Apartment,Srinagar Colony Malakpet Extension,19600000.0,9167.0,SUPER AREA,2138.0,3,Unknown,3
+ACE Atlantis,Apartment,Khajaguda,17000000.0,10000.0,CARPET AREA,1600.0,3,Unknown,3
+Rainbow Vistas at Rock Garden,Apartment,"Moosapet, NH 9",20000000.0,12658.0,CARPET AREA,1350.0,3,Unknown,3
+Candeur Crescent,Apartment,Serilingampalle M,11900000.0,8173.0,CARPET AREA,1469.0,3,Unknown,3
+Tranquillo Aura,Apartment,Nandigaon,5500000.0,5238.0,SUPER AREA,1050.0,2,Unknown,2
+Accurate Wind Chimes,Apartment,Gachibowli,10800000.0,9153.0,SUPER AREA,1180.0,2,Furnished,2
+PNR High Nest,Apartment,"Kukatpally, NH 9",21500000.0,8884.0,CARPET AREA,2420.0,3,Semi-Furnished,3
+Lansum Eden Gardens,Apartment,Kondapur,23000000.0,11825.0,SUPER AREA,1945.0,3,Unfurnished,3
+Pranava East Crest,Apartment,Hastinapuram,13500000.0,7357.0,SUPER AREA,1835.0,3,Unknown,3
+Concrete Melody,Apartment,Friends Colony Chanda Nagar,11000000.0,6748.0,SUPER AREA,1630.0,3,Furnished,3
+2600 sqft,Apartment,"Kachiguda, NH 2 2",13000000.0,5000.0,CARPET AREA,2600.0,4,Furnished,4
+2760 sqft,Apartment,Defence Colony Sainikpuri,17000000.0,6159.0,SUPER AREA,2760.0,4,Furnished,3
+Rajapushpa Atria,Apartment,"Financial District, Nanakram Guda",11900000.0,4806.0,SUPER AREA,2490.0,3,Unknown,3
+Lansum EL Dorado,Apartment,"Narsingi, Outer Ring Road",18000000.0,9677.0,SUPER AREA,1860.0,3,Unfurnished,3
+Vaibhavis Vihaan Shikhara,Apartment,"Tellapur, Outer Ring Road",13300000.0,7451.0,SUPER AREA,1785.0,3,Unknown,3
+Maple Towers,Apartment,Kondapur,12500000.0,6173.0,CARPET AREA,1525.0,3,Unknown,3
+Sita Sarovar,Apartment,"Ameerpet, NH 9",33000000.0,12692.0,CARPET AREA,2290.0,3,Unknown,3
+Visions Arsha,Apartment,Osman Nagar,17500000.0,9485.0,SUPER AREA,1845.0,3,Unknown,3
+Nayans Nature Springs,Apartment,"Kukatpally, NH 9",13000000.0,10000.0,SUPER AREA,1300.0,2,Semi-Furnished,2
+Mahanagar Ecopolis,Apartment,Bandlaguda Nagole,14000000.0,8069.0,CARPET AREA,1735.0,3,Unknown,3
+Aparna Sunstone,Apartment,Gopanpalle,18000000.0,12179.0,SUPER AREA,1478.0,3,Unknown,3
+Ramky One Odyssey,Apartment,"Kokapet, Outer Ring Road",19000000.0,10857.0,SUPER AREA,1750.0,3,Unknown,3
+Vasavi Lake City,Apartment,"Hafeezpet, NH 9",11399999.999999998,7625.0,SUPER AREA,1495.0,3,Unknown,3
+1950 sqft,Apartment,Tarnaka,16700000.0,7800.0,CARPET AREA,1950.0,3,Unknown,3
+Vasavi Lake City,Apartment,"Hafeezpet, NH 9",16000000.0,8333.0,SUPER AREA,1920.0,3,Unknown,3
+AR Homes Rise,Apartment,"Kollur, Outer Ring Road",11500000.0,5336.0,CARPET AREA,1345.0,3,Unfurnished,3
+1200 sqft,Apartment,Old Bowenpally,5000000.0,4167.0,SUPER AREA,1200.0,2,Unfurnished,2
+Aparna Sarovar,Apartment,Nallagandla Tellapur Road,17000000.0,9444.0,CARPET AREA,1500.0,3,Unknown,3
+Anvita Ivana,Apartment,"Kollur, Outer Ring Road",18500000.0,9273.0,CARPET AREA,1281.0,3,Unknown,3
+Sri Devi Residency Musheerabad,Apartment,Musheerabad,7000000.0,5833.0,CARPET AREA,1100.0,2,Semi-Furnished,2
+873 sqft,Apartment,Shamirpet,5630000.0,5167.0,CARPET AREA,873.0,2,Unknown,2
+Sri Maruthi Nilayam,Apartment,"Quthbullapur, NH 7",9000000.0,8696.0,CARPET AREA,1030.0,2,Furnished,2
+1908 sqft,Apartment,Secunderabad,12000000.0,6289.0,SUPER AREA,1908.0,3,Semi-Furnished,3
+KSR Togetherments,Apartment,"Miyapur, NH 9",17000000.0,9588.0,CARPET AREA,1773.0,3,Unknown,3
+Modi Greenwood Heights,Apartment,Kowkoor,8900000.0,5190.0,CARPET AREA,1400.0,3,Unfurnished,2
+R One Diamond Towers,Apartment,Puppalguda,32500000.0,10961.0,SUPER AREA,2965.0,3,Unknown,3
+Chitrapuri Colony,Apartment,Manikonda Jagir,18000000.0,18000.0,SUPER AREA,1000.0,2,Unknown,2
+Vazhraa Prathik,Apartment,Nizampet,13500000.0,10976.0,CARPET AREA,900.0,2,Unknown,2
+SVC Treewalk,Apartment,Kondapur,17500000.0,9589.0,SUPER AREA,1825.0,3,Unknown,3
+Surya Kiran Apartment,Apartment,Saidabad,8200000.0,6212.0,SUPER AREA,1320.0,3,Unknown,3
+Rajapushpa Provincia,Apartment,"Narsingi, Outer Ring Road",24000000.0,10300.0,SUPER AREA,2335.0,3,Unknown,3
+Modi Emerald Heights,Apartment,"Pocharam, NH 2 2",5200000.0,2744.0,SUPER AREA,1895.0,3,Semi-Furnished,3
+1258 sqft,Apartment,Raghavendra Colony Ramachandrapuram,7800000.0,6200.0,CARPET AREA,1258.0,2,Unknown,2
+Firmus SS White House,Apartment,Jillelaguda Road,6500000.0,5677.0,SUPER AREA,1145.0,2,Semi-Furnished,2
+DSR Fortune Prime,Apartment,Madhapur,45000000.0,15517.0,CARPET AREA,2650.0,4,Unknown,4
+Vasavi Sri Nilayam,Apartment,"LB Nagar, NH 9",12500000.0,9960.0,SUPER AREA,1255.0,2,Furnished,2
+1300 sqft,Apartment,Pragathinagar,7500000.0,5769.0,CARPET AREA,1300.0,2,Semi-Furnished,2
+The Prestige City,Apartment,Rajendranagar Mandal,43000000.0,12533.0,CARPET AREA,2452.0,4,Semi-Furnished,4
+Vasavi Atlantis,Apartment,"Narsingi, Outer Ring Road",13200000.0,10076.0,SUPER AREA,1310.0,2,Unfurnished,2
+Lodha Casa Paradiso,Apartment,"Sanath Nagar, NH 9",24000000.0,13201.0,SUPER AREA,1818.0,3,Semi-Furnished,3
+DSR Reganti,Apartment,Madhapur,60000000.0,17341.0,CARPET AREA,2800.0,4,Unknown,4
+Urbanrise On Cloud 33,Apartment,Bachupally,13000000.0,8040.0,SUPER AREA,1617.0,3,Unfurnished,3
+Vasavi Nandanam,Apartment,Suchitra Road,8300000.0,6721.0,SUPER AREA,1235.0,2,Unfurnished,2
+1540 sqft,Apartment,Bandari Layout,9240000.0,5999.0,SUPER AREA,1540.0,3,Unknown,3
+Aditya Capitol Heights,Apartment,Hitech City,15000000.0,8021.0,SUPER AREA,1870.0,3,Unfurnished,2
+Fortune Greenspace Celestial,Apartment,"Kokapet, Outer Ring Road",14200000.0,7500.0,CARPET AREA,1500.0,3,Unknown,3
+Giridhari Executive Park,Apartment,Peeramcheru,11500000.0,6907.0,CARPET AREA,1500.0,3,Unknown,3
+Prakruthi AGR Castle,Apartment,"Narsingi, Outer Ring Road",10500000.0,6530.0,CARPET AREA,1200.0,3,Furnished,3
+Makuta My Space 2,Apartment,Bachupally,14600000.0,6697.0,CARPET AREA,1923.0,3,Unknown,3
+Jains Ravi Gayathri Heights,Apartment,Hitech City,14000000.0,11986.0,CARPET AREA,1168.0,2,Semi-Furnished,2
+My Home Vihanga,Apartment,Gachibowli,21000000.0,13125.0,Unknown,1600.0,3,Unknown,3
+Om Sree Signet,Apartment,Yapral,33000000.0,10820.0,CARPET AREA,2800.0,3,Unknown,3
+Aparna Kanopy Marigold,Apartment,Kompally,12000000.0,7143.0,SUPER AREA,1680.0,3,Unknown,3
+Shivas Bramarambika Apartments,Apartment,Gautham Nagar Malkajgiri,5500000.0,5789.0,SUPER AREA,950.0,2,Furnished,2
+Cybercity Rainbow Vistas,Apartment,Hitech City,14500000.0,10741.0,CARPET AREA,1212.0,3,Unknown,3
+Raheja Vistas,Apartment,Nacharam,13500000.0,7872.0,CARPET AREA,1650.0,3,Unknown,3
+1481 sqft,Apartment,"Hyder Nagar, NH 9",14000000.0,7735.0,CARPET AREA,1481.0,3,Unknown,3
+PN Aabharana,Apartment,Serilingampalle M,10500000.0,6325.0,SUPER AREA,1660.0,3,Unknown,3
+Aparna One,Apartment,Shaikpet,66000000.0,15884.0,CARPET AREA,4000.0,4,Unknown,4
+Aurobindo Kohinoor,Apartment,Madhapur,18500000.0,12928.0,CARPET AREA,925.0,3,Unfurnished,3
+Sita Pride,Apartment,Kapra,6850000.0,5732.0,CARPET AREA,945.0,2,Unknown,2
+Jains Carlton Creek Phase II,Apartment,Gachibowli,10700000.0,10161.0,SUPER AREA,1053.0,2,Unknown,2
+Mahalakshmi Apartments,Apartment,Kalyan Nagar Moti Nagar,12000000.0,7869.0,CARPET AREA,1451.0,3,Semi-Furnished,3
+NCC Cyber Urbania,Apartment,"Tellapur, Outer Ring Road",25000000.0,7962.0,SUPER AREA,3140.0,5,Unknown,5
+2000 sqft,Apartment,Hastinapuram,14000000.0,5600.0,CARPET AREA,2000.0,3,Unfurnished,3
+Urbanrise On Cloud 33,Apartment,Bachupally,11500000.0,8500.0,SUPER AREA,1353.0,3,Unknown,3
+DSR Fortune Prime,Apartment,"Vittal Rao Nagar, Hitech City",25900000.0,9800.0,SUPER AREA,2650.0,3,Unknown,3
+Creative Koven Udaya Cresent,Apartment,Kondapur,14800000.0,6884.0,SUPER AREA,2150.0,3,Unknown,3
+1020 sqft,Apartment,Kistareddypet,5400000.0,5294.117647058823,CARPET AREA,1020.0,2,Unfurnished,2
+Prajay Megapolis,Apartment,"Hafeezpet, NH 9",14900000.0,9927.0,CARPET AREA,1500.0,3,Unknown,3
+1100 sqft,Apartment,"Habsiguda, NH 2 2",6500000.0,5909.0,SUPER AREA,1100.0,2,Semi-Furnished,2
+Sai Sravanthi Pavani Starlit,Apartment,"Miyapur, NH 9",10000000.0,6798.0,SUPER AREA,1471.0,2,Furnished,2
+Cybercity Oriana,Apartment,"Moosapet, NH 9",11700000.0,9360.0,SUPER AREA,1250.0,2,Unknown,2
+MRKR Meda Prestige,Apartment,"Miyapur, NH 9",12300000.0,7810.0,SUPER AREA,1575.0,3,Unfurnished,3
+EIPL THE TAMARIND,Apartment,Manikonda Jagir,13000000.0,9489.0,CARPET AREA,1370.0,2,Unknown,2
+Alkapoor Township,Apartment,Puppalguda,11800000.0,6743.0,SUPER AREA,1750.0,3,Unfurnished,3
+NCC Urban One,Apartment,"Narsingi, Outer Ring Road",25500000.0,9715.0,SUPER AREA,2630.0,4,Unknown,4
+Janapriya Sitara A1,Apartment,Sainikpuri,4290000.0,5018.0,CARPET AREA,855.0,2,Semi-Furnished,2
+Mawin Prestige,Apartment,Asif Nagar,8900000.0,5562.0,SUPER AREA,1600.0,3,Semi-Furnished,3
+Anuhar Sunny Side,Apartment,"Alkapur Township, Manikonda, Outer Ring Road",11200000.000000002,5700.0,SUPER AREA,1974.0,3,Unknown,3
+Mandadi Magnus,Apartment,"Miyapur, NH 9",11800000.0,9365.0,CARPET AREA,1008.0,2,Unknown,2
+Technopolis Solitaire Unity,Apartment,Kondapur,15700000.0,9500.0,SUPER AREA,1655.0,3,Unfurnished,3
+Hitech Residency,Apartment,Madhapur,45800000.0,14049.079754601227,CARPET AREA,3260.0,4,Unknown,4
+Candeur Skyline,Apartment,"Financial District, Nanakram Guda",101000000.0,13548.0,SUPER AREA,7455.0,5,Unknown,5
+1448 sqft,Apartment,"Methodist Colony, Begumpet",6800000.0,4696.0,SUPER AREA,1448.0,3,Furnished,2
+Aliens Space Station,Apartment,"Tellapur, Outer Ring Road",10000000.0,7133.0,SUPER AREA,1402.0,2,Furnished,2
+Visions Arsha,Apartment,Osman Nagar,21500000.0,10165.0,SUPER AREA,2115.0,3,Unfurnished,3
+aaditri,Apartment,"Kollur, Outer Ring Road",10000000.0,4866.0,CARPET AREA,1700.0,3,Unknown,3
+527 sqft,Apartment,Mayur Marg,2480000.0,4706.0,SUPER AREA,527.0,1,Semi-Furnished,1
+1300 sqft,Apartment,"Hafeezpet, NH 9",14000000.0,8235.0,CARPET AREA,1300.0,3,Semi-Furnished,3
+1043 sqft,Apartment,Kakatiya Hills Kavuri Hills,18000000.0,12081.0,CARPET AREA,1043.0,3,Unfurnished,3
+Keerthi Apartment,Apartment,"Ameerpet, NH 9",7000000.0,8684.863523573202,CARPET AREA,806.0,2,Unknown,2
+Samskruthi Sanskar,Apartment,Kothapet,3200000.0,4444.0,CARPET AREA,20.0,2,Furnished,2
+Surabhi Enclave,Apartment,"Banjara Hills, NH 9",12000000.0,8869.0,CARPET AREA,1300.0,3,Unknown,3
+RNG Supra Avenue,Apartment,"Bowrampet, Outer Ring Road",9000000.0,7166.0,CARPET AREA,1050.0,2,Unknown,2
+Keerthi Krishna Residency,Apartment,Masab Tank,26000000.0,8667.0,SUPER AREA,3000.0,4,Unknown,4
+Sri Sai Residency Meerpet,Apartment,Meerpet,4200000.0,4421.0526315789475,CARPET AREA,950.0,2,Semi-Furnished,2
+Jade One,Apartment,Kompally,10300000.0,5000.0,CARPET AREA,2000.0,3,Unknown,3
+1575 sqft,Apartment,"Quthbullapur, NH 7",12000000.0,7619.0,SUPER AREA,1575.0,3,Unknown,3
+Mahindra Ashvita,Apartment,Hitech City,12500000.0,10263.0,SUPER AREA,1218.0,2,Semi-Furnished,2
+Honer Aquantis,Apartment,Gopanpalle,17000000.0,10559.0,SUPER AREA,1610.0,3,Furnished,3
+1300 sqft,Apartment,Siddipet,4500000.0,2695.0,CARPET AREA,1300.0,3,Unfurnished,3
+Santos Nest,Apartment,Hyderguda,6500000.0,4050.0,SUPER AREA,1605.0,3,Unknown,3
+Candeur Crescent,Apartment,Serilingampalle M,16000000.0,10989.0,SUPER AREA,1456.0,2,Unknown,2
+Incor Lake City,Apartment,Patancheruvu,6600000.0,5995.0,SUPER AREA,1101.0,2,Unknown,2
+Primark North Wave,Apartment,Bahadurpally,11500000.0,6686.0,SUPER AREA,1720.0,3,Unfurnished,3
+Springdale Apartment,Apartment,Manikonda Jagir,15000000.0,6303.0,CARPET AREA,1900.0,3,Semi-Furnished,3
+Prestige High Fields,Apartment,Gachibowli,18500000.0,10620.0,SUPER AREA,1742.0,3,Semi-Furnished,2
+SVR Estates,Apartment,Dammaiguda,20000000.0,7407.0,CARPET AREA,2400.0,3,Unknown,3
+Praneeth Jaagaruthi Elite,Apartment,"Kollur, Outer Ring Road",18000000.0,7871.0,SUPER AREA,2287.0,3,Unknown,3
+Aditya Empress Heights,Apartment,Shaikpet,15000000.0,8945.0,CARPET AREA,1400.0,3,Unknown,3
+900 sqft,Apartment,Meerpet Road,7500000.0,6522.0,CARPET AREA,900.0,2,Unknown,2
+Cybercity Marina Skies,Apartment,"Moosapet, NH 9",17000000.0,11724.0,SUPER AREA,1450.0,3,Unfurnished,2
+Ashoka ASBL Spectra,Apartment,"Financial District, Nanakram Guda",24300000.0,10946.0,SUPER AREA,2220.0,3,Unknown,3
+Aparna CyberHeights,Apartment,Osman Nagar,19500000.0,10621.0,CARPET AREA,1213.0,3,Unfurnished,3
+HMR Sai Enclave,Apartment,"Banjara Hills, NH 9",20900000.0,11000.0,CARPET AREA,1750.0,3,Unknown,3
+Phoenix Golf Edge,Apartment,Gachibowli,18500000.0,9473.0,SUPER AREA,1953.0,3,Unknown,3
+Prestige Clairemont,Apartment,"Kokapet, Outer Ring Road",27000000.0,11963.0,SUPER AREA,2257.0,3,Unknown,3
+Aparna Cyberscape,Apartment,Nalagandla,21000000.0,10145.0,SUPER AREA,2070.0,3,Unfurnished,3
+Matrix Orchids,Apartment,Serilingampalle M,16000000.0,10095.0,CARPET AREA,1500.0,3,Unknown,3
+Ramky One Marvel,Apartment,"Kukatpally, NH 9",15000000.0,9259.0,SUPER AREA,1620.0,3,Unknown,3
+1893 sqft,Apartment,Masab Tank,22500000.0,11177.0,CARPET AREA,1893.0,3,Semi-Furnished,3
+Sri Balaji Enclave B Block,Apartment,Balaji Enclave Sri Aurobindo Colony,12500000.0,8251.0,CARPET AREA,1226.0,3,Furnished,3
+25 sqyrd,Apartment,ECIL,3800000.0,5067.0,Unknown,1600.0,1,Unknown,2
+Happy Homes Heights,Apartment,Rajendra Nagar Road,1800000.0,2413.0,SUPER AREA,746.0,2,Unfurnished,2
+Rajapushpa Atria,Apartment,"Kokapet, Outer Ring Road",25000000.0,13441.0,SUPER AREA,1860.0,3,Furnished,3
+Sri Lakshmi Shubham Arcade Spoorthy,Apartment,Chanda Nagar,7500000.0,7009.0,CARPET AREA,900.0,2,Unknown,2
+LINQ by Raghava,Apartment,"Kokapet, Outer Ring Road",15400000.0,8600.0,SUPER AREA,1798.0,3,Unknown,3
+Aparna Lake Breeze,Apartment,Bandam Kommu,18800000.0,10301.0,SUPER AREA,1825.0,3,Semi-Furnished,3
+Ayyanna Prestige,Apartment,Kondapur,13500000.0,7895.0,SUPER AREA,1710.0,3,Semi-Furnished,3
+1300 sqft,Apartment,Serilingampalle M,11299999.999999998,7099.0,CARPET AREA,1300.0,3,Unknown,3
+RNR Fort View Towers,Apartment,Attapur,15000000.0,9174.0,SUPER AREA,1635.0,3,Unknown,3
+Sethi Towers,Apartment,"Somajiguda, NH 9",36800000.0,11500.0,SUPER AREA,3200.0,3,Unknown,3
+Lansum EL Dorado,Apartment,"Narsingi, Outer Ring Road",23000000.0,10550.0,SUPER AREA,2180.0,3,Unknown,3
+Vasavi Lake City,Apartment,"Hafeezpet, NH 9",13600000.000000002,7977.0,SUPER AREA,1705.0,3,Unknown,3
+Rahuls Grandeur,Apartment,Maruthi Nagar Attapur,10000000.0,8230.0,CARPET AREA,825.0,2,Furnished,2
+Nanakramguda,Apartment,Nanakaramguda,10900000.0,8500.0,SUPER AREA,1283.0,2,Unfurnished,2
+Nanakramguda,Apartment,Nanakaramguda,9200000.0,7667.0,SUPER AREA,1200.0,3,Furnished,2
+Sri Sreenivasa GVK Sky City,Apartment,"Somajiguda, NH 9",76000000.0,13681.0,SUPER AREA,5555.0,4,Unknown,4
+Sri Sreenivasa GVK Sky City,Apartment,"Somajiguda, NH 9",75000000.0,13501.0,SUPER AREA,5555.0,4,Unknown,4
+Aditya Hill Crest,Apartment,"Nandagiri Hills, Jubilee Hills",40000000.0,10256.0,SUPER AREA,3900.0,3,Semi-Furnished,3
+RV Dharmista,Apartment,"Miyapur, NH 9",10600000.0,6531.0,SUPER AREA,1630.0,3,Unknown,3
+Jayabheri The Peak,Apartment,"Narsingi, Outer Ring Road",51000000.0,11604.0,SUPER AREA,4395.0,4,Unknown,4
+Jayabheri The Peak,Apartment,"Narsingi, Outer Ring Road",48600000.0,9000.0,SUPER AREA,5400.0,5,Unknown,5
+Jayabheri The Peak,Apartment,"Narsingi, Outer Ring Road",45000000.0,10239.0,SUPER AREA,4395.0,4,Unknown,4
+Mandadi Magnus,Apartment,"Miyapur, NH 9",7500000.0,5952.0,SUPER AREA,1260.0,2,Unknown,2
+1425 sqft,Apartment,"Hafeezpet, NH 9",23000000.0,12644.0,CARPET AREA,1425.0,4,Unknown,4
+My Home Abhra,Apartment,Madhapur,42000000.0,16185.0,SUPER AREA,2595.0,3,Furnished,3
+The Prestige City,Apartment,Rajendranagar Mandal,19800000.0,11737.0,SUPER AREA,1687.0,3,Unknown,3
+2150 sqft,Apartment,Hastinapuram,12000000.0,5581.0,SUPER AREA,2150.0,3,Unfurnished,3
+Cybercity Oriana,Apartment,"Moosapet, NH 9",15100000.0,10270.0,SUPER AREA,1480.0,3,Unknown,3
+Hallmark Vicinia,Apartment,"Narsingi, Outer Ring Road",21400000.0,11077.0,SUPER AREA,1932.0,3,Unknown,3
+Cybercity Oriana,Apartment,"Moosapet, NH 9",24600000.0,10375.0,SUPER AREA,2380.0,4,Unknown,4
+950 sqft,Apartment,"Indresham, Bachuguda",4200000.0,4421.0,SUPER AREA,950.0,2,Unknown,2
+Svadha Kollaar,Apartment,"Tellapur, Outer Ring Road",13000000.0,8176.0,SUPER AREA,1590.0,3,Semi-Furnished,3
+Skymarq By DSR,Apartment,Puppalguda,52000000.0,13003.0,SUPER AREA,3999.0,4,Unknown,4
+Kalpataru Avante,Apartment,"Sanath Nagar, NH 9",17500000.0,10169.0,CARPET AREA,1204.0,3,Unknown,3
+Saanvee Civitas,Apartment,"Sanath Nagar, NH 9",14900000.0,9030.0,SUPER AREA,1650.0,3,Furnished,3
+Aspire Spaces Ameya,Apartment,"Miyapur, NH 9",8910000.0,6700.0,SUPER AREA,1330.0,2,Unknown,2
+Ramky One Odyssey,Apartment,"Kokapet, Outer Ring Road",27500000.0,15193.0,CARPET AREA,1190.0,3,Unknown,3
+100 sqyrd,Apartment,Riyasat Nagar,2550000.0,2833.0,Unknown,1600.0,3,Unfurnished,3
+Sneha Bhel Lake View Apartments,Apartment,Ramachandrapuram BHEL Township,6800000.0,6104.0,CARPET AREA,1000.0,2,Unfurnished,2
+Makuta My Space 2,Apartment,Bowrampet Road,12500000.0,7000.0,SUPER AREA,1795.0,3,Unfurnished,3
+SVS Oracle,Apartment,Narepally,7450000.0,6340.0,SUPER AREA,1175.0,2,Semi-Furnished,2
+Rising Lyrics,Apartment,Himayatnagar,25000000.0,12346.0,SUPER AREA,2025.0,3,Semi-Furnished,3
+Sree Chaitanya Urban Abode,Apartment,Velmala,13000000.0,6436.0,CARPET AREA,1032.0,3,Unknown,3
+1160 sqft,Apartment,Hyderabad,5450000.0,4698.0,SUPER AREA,1160.0,2,Semi-Furnished,2
+2200 sqft,Apartment,Hyderabad,10300000.0,4700.0,SUPER AREA,2200.0,3,Unfurnished,3
+1480 sqft,Apartment,Hyderabad,6950000.0,4696.0,SUPER AREA,1480.0,2,Furnished,2
+1150 sqft,Apartment,Hyderabad,5400000.0,4696.0,SUPER AREA,1150.0,2,Semi-Furnished,2
+Punni Lily Residency,Apartment,Kothaguda,18500000.0,8409.0,SUPER AREA,2200.0,3,Unknown,3
+Sobha Waterfront,Apartment,"Somajiguda, NH 9",31000000.0,15500.0,SUPER AREA,2000.0,2,Furnished,2
+1498 sqft,Apartment,"Moosarambagh, NH 9",13000000.0,7980.0,CARPET AREA,1498.0,3,Unfurnished,3
+Sri Nilayam,Apartment,Attapur,13899999.999999998,8527.60736196319,CARPET AREA,1630.0,3,Unknown,3
+Modi Mayflower Grande,Apartment,Mallapur,10500000.0,7500.0,SUPER AREA,1400.0,3,Unknown,3
+Frontline Seven,Apartment,"Kokapet, Outer Ring Road",25000000.0,16667.0,CARPET AREA,1500.0,3,Unknown,3
+Solitaire Elite,Apartment,Madeenaguda,16000000.0,7882.0,SUPER AREA,2030.0,3,Unknown,3
+Anuhar Timbre,Apartment,Manikonda Jagir,12000000.0,6000.0,CARPET AREA,1800.0,3,Unfurnished,3
+Maphar Amir Residency,Apartment,Shanti Nagar Uppal,16500000.0,11402.902557014513,CARPET AREA,1447.0,3,Unknown,3
+1500 sqft,Apartment,Attapur,11200000.000000002,7466.666666666668,CARPET AREA,1500.0,3,Furnished,3
+2080 sqft,Apartment,Yapral,16500000.0,7895.0,CARPET AREA,2080.0,3,Unknown,3
+900 sqft,Apartment,"Ameerpet, NH 9",6300000.0,6300.0,CARPET AREA,900.0,2,Unknown,2
+Modi Lake View,Apartment,Hyderabad,11000000.0,6307.0,CARPET AREA,1102.0,3,Unknown,3
+Prajay Megapolis,Apartment,"Hafeezpet, NH 9",11000000.0,9322.0,CARPET AREA,1100.0,3,Unknown,3
+Home Line Verdure Homes,Apartment,Sainikpuri,15500000.0,8611.0,SUPER AREA,1800.0,3,Furnished,3
+Ashoka Lake View,Apartment,Kundanbagh Colony,30000000.0,12000.0,CARPET AREA,2500.0,3,Furnished,3
+1535 sqft,Apartment,Kondapur,16800000.0,11000.0,SUPER AREA,1535.0,3,Furnished,3
+Sai Raghavendra Magnificent Habitat,Apartment,Nalagandla,9300000.0,5619.0,CARPET AREA,1555.0,3,Unknown,3
+Aarohan Tancica,Apartment,Shaikpet,38000000.0,11931.0,SUPER AREA,3185.0,3,Unknown,3
+900 sqft,Apartment,Laxma Reddy Palem Colony,5100000.0,4722.0,CARPET AREA,900.0,2,Furnished,2
+2080 sqft,Apartment,Manikonda Jagir,14500000.0,6971.0,SUPER AREA,2080.0,3,Unknown,3
+1642 sqft,Apartment,"Snehita Hills, Peeramcheru",11200000.000000002,6821.0,CARPET AREA,1642.0,3,Unknown,3
+SMR Vinay Technopolis,Apartment,Kothaguda,17000000.0,8500.0,SUPER AREA,2000.0,3,Semi-Furnished,3
+Luxor Park,Apartment,Chanda Nagar,15000000.0,7937.0,SUPER AREA,1890.0,3,Semi-Furnished,2
+Bayswater Gayatri,Apartment,"Patancheru Industrial Area, Outer Ring Road",6500000.0,5439.0,SUPER AREA,1195.0,2,Semi-Furnished,2
+Saradhi Residency,Apartment,"Miyapur, NH 9",7800000.0,7256.0,SUPER AREA,1075.0,2,Semi-Furnished,2
+1500 sqft,Apartment,"Malakpet, NH 9",10000000.0,6250.0,CARPET AREA,1500.0,3,Semi-Furnished,2
+Saara Classic,Apartment,"Upparpalli Weaker Cestion Colony, Chintalmet",3500000.0,3571.0,SUPER AREA,980.0,2,Unfurnished,2
+1600 sqft,Apartment,Chilakalguda,18300000.0,8971.0,CARPET AREA,1600.0,4,Unknown,4
+SMR Vinay Iconia,Apartment,Kondapur,22000000.0,9843.0,CARPET AREA,2000.0,3,Unfurnished,3
+1750 sqft,Apartment,Kompally,11000000.0,6111.0,CARPET AREA,1750.0,4,Unknown,4
+Fuerzaa Sahasraa,Apartment,Serilingampalle M,13500000.0,11678.0,SUPER AREA,1156.0,2,Semi-Furnished,2
+SBR complex,Apartment,Shivaji Nagar,13500000.0,8710.0,CARPET AREA,1450.0,3,Unknown,3
+Prem Sarovar,Apartment,"Kukatpally, NH 9",10900000.0,6746.0,CARPET AREA,1220.0,3,Unknown,3
+Solitaire Apartment,Apartment,Kothaguda,30000000.0,12500.0,CARPET AREA,2200.0,3,Unknown,3
+1588 sqft,Apartment,Hyderabad,16500000.0,8661.0,CARPET AREA,1588.0,3,Unknown,3
+Nivee Cosmopolitan,Apartment,"Somajiguda, NH 9",25000000.0,13383.0,CARPET AREA,1800.0,3,Unknown,3
+Tarnaka Towers,Apartment,Tarnaka Main Road,16500000.0,12595.419847328245,CARPET AREA,1310.0,3,Unfurnished,3
+Prime Legend,Apartment,Kondapur,18800000.0,9500.0,CARPET AREA,1900.0,3,Unknown,3
+Namaha Landmark Residency,Apartment,"Miyapur, NH 9",13000000.0,8000.0,CARPET AREA,1400.0,3,Unknown,3
+Green Hills Residency,Apartment,"Habsiguda, NH 2 2",15000000.0,9901.0,CARPET AREA,1515.0,3,Furnished,3
+1500 sqft,Apartment,Nagole Bandlaguda Road,11200000.000000002,6022.0,CARPET AREA,1500.0,3,Unfurnished,3
+1050 sqft,Apartment,Hyderabad,8500000.0,8095.0,SUPER AREA,1050.0,2,Unknown,2
+Lanco Hills,Apartment,Manikonda Jagir,23000000.0,9259.0,CARPET AREA,2400.0,3,Unknown,3
+Beams Aranya Kalanjali,Apartment,Kompally,14600000.0,6969.0,SUPER AREA,2100.0,3,Unknown,3
+SVRS Brundavanam,Apartment,"Saroornagar, NH 9",10000000.0,7143.0,SUPER AREA,1400.0,3,Furnished,2
+Ramky One Marvel,Apartment,"Kukatpally, NH 9",14000000.0,8642.0,SUPER AREA,1620.0,3,Unknown,3
+1700 sqft,Apartment,Hyderabad,22500000.0,10760.0,CARPET AREA,1700.0,3,Unknown,3
+1254 sqft,Apartment,Phase 5th KPHB,18500000.0,11065.0,CARPET AREA,1254.0,3,Unknown,3
+Ramky One Symphony,Apartment,Patancheruvu,15300000.0,9653.0,SUPER AREA,1585.0,3,Unknown,3
+1335 sqft,Apartment,Kishan Bagh Road,19000000.0,11853.0,CARPET AREA,1335.0,3,Unknown,3
+1685 sqft,Apartment,"Kokapet, Outer Ring Road",20500000.0,12166.0,SUPER AREA,1685.0,3,Unknown,3
+1650 sqft,Apartment,"Hyder Nagar, NH 9",13100000.0,7486.0,CARPET AREA,1650.0,3,Unknown,3
+Sri Ram Garden By Jains,Apartment,Suchitra,34200000.0,12000.0,CARPET AREA,2800.0,4,Unfurnished,4
+1350 sqft,Apartment,Adikmet,9500000.0,7037.0,SUPER AREA,1350.0,3,Semi-Furnished,3
+2100 sqft,Apartment,Hyderabad,17500000.0,8333.0,CARPET AREA,2100.0,3,Unknown,3
+1744 sqft,Apartment,Hyderabad,18300000.0,10493.0,CARPET AREA,1744.0,3,Unknown,3
+SSVS Jackies RK Square,Apartment,Medipally,13899999.999999998,8803.0,CARPET AREA,1400.0,3,Unknown,3
+BSCPL Bollineni Bion,Apartment,Kondapur,22900000.0,12446.0,CARPET AREA,1800.0,3,Unknown,3
+1620 sqft,Apartment,Madeenaguda,13500000.0,7627.0,CARPET AREA,1620.0,3,Furnished,3
+1200 sqft,Apartment,Hyderabad,7000000.0,5833.0,SUPER AREA,1200.0,2,Furnished,2
+Aparna Sarovar Grande,Apartment,HUDA Layout Nalagandla,24000000.0,12245.0,SUPER AREA,1960.0,3,Semi-Furnished,3
+1665 sqft,Apartment,Sudarshan Nagar Colony,12000000.0,7207.0,SUPER AREA,1665.0,3,Semi-Furnished,3
+Aditya Imperial Heights,Apartment,"Hafeezpet, NH 9",17500000.0,9211.0,SUPER AREA,1900.0,3,Semi-Furnished,3
+Lahari Twins,Apartment,"Miyapur, NH 9",14500000.0,8499.0,SUPER AREA,1706.0,3,Unknown,3
+SLN Urbana,Apartment,Kompally,13100000.0,7422.0,SUPER AREA,1765.0,3,Semi-Furnished,3
+Archstone Apartments,Apartment,Bandlaguda Jagir,13000000.0,6576.0,CARPET AREA,1598.0,3,Unknown,3
+Raghuram The Vue Residences,Apartment,Puppalguda,24000000.0,12468.0,SUPER AREA,1925.0,3,Unknown,3
+Saishakti Symphony,Apartment,Bandlaguda Jagir,10700000.0,7105.0,SUPER AREA,1506.0,3,Furnished,3
+Spectra Metro Heights,Apartment,Nagole,10200000.0,6509.0,SUPER AREA,1567.0,3,Unknown,3
+1353 sqft,Apartment,"P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road",17000000.0,10047.0,CARPET AREA,1353.0,3,Unknown,3
+Magnas Lakeview,Apartment,Kothaguda,25000000.0,12469.0,CARPET AREA,1990.0,3,Unknown,3
